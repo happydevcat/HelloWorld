@@ -1,0 +1,3822 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<archetype-catalog xmlns="http://maven.apache.org/plugins/maven-archetype-plugin/archetype-catalog/1.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/plugins/maven-archetype-plugin/archetype-catalog/1.0.0 http://maven.apache.org/xsd/archetype-catalog-1.0.0.xsd">
+<archetypes>
+<archetype>
+<groupId>org.apache.jclouds</groupId>
+<artifactId>jclouds-rest-client-archetype</artifactId>
+<version>1.7.0-SNAPSHOT</version>
+<description>Maven archetype for a provider of a rest-speaking service</description>
+</archetype>
+<archetype>
+<groupId>org.apache.jclouds</groupId>
+<artifactId>jclouds-rest-client-archetype</artifactId>
+<version>1.6.1-SNAPSHOT</version>
+<description>Maven archetype for a provider of a rest-speaking service</description>
+</archetype>
+<archetype>
+<groupId>org.apache.jclouds</groupId>
+<artifactId>jclouds-rest-client-archetype</artifactId>
+<version>1.5.11-SNAPSHOT</version>
+<description>Maven archetype for a provider of a rest-speaking service</description>
+</archetype>
+<archetype>
+<groupId>org.apache.jclouds</groupId>
+<artifactId>jclouds-compute-service-archetype</artifactId>
+<version>1.7.0-SNAPSHOT</version>
+<description>Maven archetype for a provider of a Compute service</description>
+</archetype>
+<archetype>
+<groupId>org.apache.jclouds</groupId>
+<artifactId>jclouds-compute-service-archetype</artifactId>
+<version>1.6.1-SNAPSHOT</version>
+<description>Maven archetype for a provider of a Compute service</description>
+</archetype>
+<archetype>
+<groupId>org.apache.jclouds</groupId>
+<artifactId>jclouds-compute-service-archetype</artifactId>
+<version>1.5.11-SNAPSHOT</version>
+<description>Maven archetype for a provider of a Compute service</description>
+</archetype>
+<archetype>
+<groupId>org.apache.openejb.maven</groupId>
+<artifactId>tomee-webapp-archetype</artifactId>
+<version>1.6.1-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.openejb.maven</groupId>
+<artifactId>tomee-webapp-archetype</artifactId>
+<version>1.5.3-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.openejb.maven</groupId>
+<artifactId>tomee-webapp-archetype</artifactId>
+<version>1.0.3-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.openejb.maven</groupId>
+<artifactId>tomee-webapp-archetype</artifactId>
+<version>1.0.2-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.oodt</groupId>
+<artifactId>opsui-archetype</artifactId>
+<version>0.4-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.olingo</groupId>
+<artifactId>olingo-odata2-sample-cars-service-incubating-archetype</artifactId>
+<version>1.1.0-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.olingo</groupId>
+<artifactId>olingo-odata2-sample-cars-service-archetype-incubating</artifactId>
+<version>1.3.0-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.olingo</groupId>
+<artifactId>olingo-odata2-sample-cars-service-archetype-incubating</artifactId>
+<version>1.2.0-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.olingo</groupId>
+<artifactId>olingo-odata2-sample-cars-service-archetype</artifactId>
+<version>2.1.0-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.olingo</groupId>
+<artifactId>olingo-odata2-sample-cars-service-archetype</artifactId>
+<version>1.3.0-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.olingo</groupId>
+<artifactId>olingo-odata2-sample-cars-jpa-archetype-incubating</artifactId>
+<version>1.3.0-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.olingo</groupId>
+<artifactId>olingo-odata2-sample-cars-jpa-archetype-incubating</artifactId>
+<version>1.2.0-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.olingo</groupId>
+<artifactId>olingo-odata2-sample-cars-jpa-archetype</artifactId>
+<version>2.1.0-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.olingo</groupId>
+<artifactId>olingo-odata2-sample-cars-jpa-archetype</artifactId>
+<version>1.3.0-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.olingo</groupId>
+<artifactId>olingo-odata2-sample-cars-annotation-archetype-incubating</artifactId>
+<version>1.3.0-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.olingo</groupId>
+<artifactId>olingo-odata2-sample-cars-annotation-archetype-incubating</artifactId>
+<version>1.2.0-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.olingo</groupId>
+<artifactId>olingo-odata2-sample-cars-annotation-archetype</artifactId>
+<version>2.1.0-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.olingo</groupId>
+<artifactId>olingo-odata2-sample-cars-annotation-archetype</artifactId>
+<version>1.3.0-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.isis</groupId>
+<artifactId>quickstart-archetype</artifactId>
+<version>0.3.1-incubating-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.isis</groupId>
+<artifactId>quickstart-archetype</artifactId>
+<version>0.3.1-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.rave</groupId>
+<artifactId>rave-custom-project-archetype</artifactId>
+<version>0.21-SNAPSHOT</version>
+<description>An Archetype to create a custom Apache Rave project</description>
+</archetype>
+<archetype>
+<groupId>org.apache.maven.archetypes</groupId>
+<artifactId>maven-archetype-webapp</artifactId>
+<version>5-SNAPSHOT</version>
+<description>An archetype which contains a sample Maven Webapp project.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.maven.archetypes</groupId>
+<artifactId>maven-archetype-site-simple</artifactId>
+<version>5-SNAPSHOT</version>
+<description>An archetype which contains a sample Maven site.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.maven.archetypes</groupId>
+<artifactId>maven-archetype-site</artifactId>
+<version>5-SNAPSHOT</version>
+<description>An archetype which contains a sample Maven site which demonstrates some of the supported document types like APT, XDoc, and FML and demonstrates how to i18n your site. This archetype can be layered upon an existing Maven project.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.maven.archetypes</groupId>
+<artifactId>maven-archetype-simple</artifactId>
+<version>5-SNAPSHOT</version>
+<description>An archetype which contains a simple Maven project.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.maven.archetypes</groupId>
+<artifactId>maven-archetype-quickstart</artifactId>
+<version>5-SNAPSHOT</version>
+<description>An archetype which contains a sample Maven project.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.maven.archetypes</groupId>
+<artifactId>maven-archetype-profiles</artifactId>
+<version>5-SNAPSHOT</version>
+<description>An archetype which contains a sample Maven project which demonstrates the use of profiles.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.maven.archetypes</groupId>
+<artifactId>maven-archetype-portlet</artifactId>
+<version>5-SNAPSHOT</version>
+<description>An archetype which contains a sample JSR-268 Portlet.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.maven.archetypes</groupId>
+<artifactId>maven-archetype-plugin-site</artifactId>
+<version>5-SNAPSHOT</version>
+<description>An archetype which contains a sample Maven plugin site. This archetype can be layered upon an existing Maven plugin project.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.maven.archetypes</groupId>
+<artifactId>maven-archetype-plugin</artifactId>
+<version>5-SNAPSHOT</version>
+<description>An archetype which contains a sample Maven plugin.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.maven.archetypes</groupId>
+<artifactId>maven-archetype-j2ee-simple</artifactId>
+<version>5-SNAPSHOT</version>
+<description>An archetype which contains a simplified sample J2EE application.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.maven.archetypes</groupId>
+<artifactId>maven-archetype-archetype</artifactId>
+<version>5-SNAPSHOT</version>
+<description>An archetype which contains a sample archetype.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.maven.its</groupId>
+<artifactId>maven-it-sample-archetype</artifactId>
+<version>1.0-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.karaf.eik.archetypes</groupId>
+<artifactId>eik-camel-archetype</artifactId>
+<version>3.0.0-SNAPSHOT</version>
+<description>Camel PDE plugin to be used in EIK</description>
+</archetype>
+<archetype>
+<groupId>org.apache.karaf.eik.archetypes</groupId>
+<artifactId>eik-camel-archetype</artifactId>
+<version>2.3.1-SNAPSHOT</version>
+<description>Camel PDE plugin to be used in EIK</description>
+</archetype>
+<archetype>
+<groupId>org.apache.karaf.eik.archetypes</groupId>
+<artifactId>eik-camel-archetype</artifactId>
+<version>0.10.0-SNAPSHOT</version>
+<description>Camel PDE plugin to be used in EIK</description>
+</archetype>
+<archetype>
+<groupId>org.apache.marmotta</groupId>
+<artifactId>marmotta-archetype-webapp</artifactId>
+<version>3.2.0-incubating-SNAPSHOT</version>
+<description>Web Application bundle (WAR file) containing Apache Marmotta</description>
+</archetype>
+<archetype>
+<groupId>org.apache.marmotta</groupId>
+<artifactId>marmotta-archetype-module</artifactId>
+<version>3.2.0-incubating-SNAPSHOT</version>
+<description>This Maven Archetype allows creating the basic structure for an Marmotta Module</description>
+</archetype>
+<archetype>
+<groupId>org.apache.karaf.archetypes</groupId>
+<artifactId>karaf-kar-archetype</artifactId>
+<version>3.1.0-SNAPSHOT</version>
+<description>This archetype sets up an empty karaf kar project.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.karaf.archetypes</groupId>
+<artifactId>karaf-kar-archetype</artifactId>
+<version>2.2.12-SNAPSHOT</version>
+<description>This archetype creates a KAR file from a provided features XML.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.karaf.archetypes</groupId>
+<artifactId>karaf-feature-archetype</artifactId>
+<version>3.1.0-SNAPSHOT</version>
+<description>This archetype sets up an empty karaf features project.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.karaf.archetypes</groupId>
+<artifactId>karaf-feature-archetype</artifactId>
+<version>2.2.12-SNAPSHOT</version>
+<description>This archetype sets up an empty karaf features project.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.karaf.archetypes</groupId>
+<artifactId>karaf-command-archetype</artifactId>
+<version>3.1.0-SNAPSHOT</version>
+<description>A Karaf command archetype.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.karaf.archetypes</groupId>
+<artifactId>karaf-command-archetype</artifactId>
+<version>2.2.12-SNAPSHOT</version>
+<description>A Karaf command archetype.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.karaf.archetypes</groupId>
+<artifactId>karaf-bundle-archetype</artifactId>
+<version>3.1.0-SNAPSHOT</version>
+<description>A simple bundle archetype.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.karaf.archetypes</groupId>
+<artifactId>karaf-bundle-archetype</artifactId>
+<version>2.2.12-SNAPSHOT</version>
+<description>A simple bundle archetype.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.karaf.archetypes</groupId>
+<artifactId>karaf-blueprint-archetype</artifactId>
+<version>3.1.0-SNAPSHOT</version>
+<description>An archetype for creating a simple blueprint bundle.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.karaf.archetypes</groupId>
+<artifactId>karaf-blueprint-archetype</artifactId>
+<version>2.2.12-SNAPSHOT</version>
+<description>An archetype for creating a simple blueprint bundle.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.karaf.archetypes</groupId>
+<artifactId>karaf-assembly-archetype</artifactId>
+<version>3.1.0-SNAPSHOT</version>
+<description>This archetype sets up an empty karaf assembly project.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.karaf.archetypes</groupId>
+<artifactId>karaf-assembly-archetype</artifactId>
+<version>2.2.12-SNAPSHOT</version>
+<description>An archetype for creating a Karaf assembly.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.karaf.archetypes</groupId>
+<artifactId>archetypes-command</artifactId>
+<version>3.0.0-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.karaf.archetypes</groupId>
+<artifactId>archetypes-command</artifactId>
+<version>2.99.99-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.karaf.archetypes</groupId>
+<artifactId>archetypes-command</artifactId>
+<version>2.2.5-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.karaf.archetypes</groupId>
+<artifactId>archetypes-command</artifactId>
+<version>2.1.99-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.karaf.archetypes</groupId>
+<artifactId>archetypes-command</artifactId>
+<version>2.1.7-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.karaf.archetypes</groupId>
+<artifactId>archetypes-command</artifactId>
+<version>2.0.1-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-vfs-sender-service-unit</artifactId>
+<version>2010.02-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-vfs-sender-service-unit</artifactId>
+<version>2010.01-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-vfs-poller-service-unit</artifactId>
+<version>2010.02-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-vfs-poller-service-unit</artifactId>
+<version>2010.01-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-validation-service-unit</artifactId>
+<version>2009.01-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-snmp-trap-consumer-service-unit</artifactId>
+<version>2010.02-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-snmp-trap-consumer-service-unit</artifactId>
+<version>2010.01-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-snmp-service-unit</artifactId>
+<version>2009.01-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-snmp-poller-service-unit</artifactId>
+<version>2010.02-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-snmp-poller-service-unit</artifactId>
+<version>2010.01-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-smpp-provider-service-unit</artifactId>
+<version>2010.02-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-smpp-provider-service-unit</artifactId>
+<version>2010.01-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-smpp-provider-service-unit</artifactId>
+<version>2009.01-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-smpp-consumer-service-unit</artifactId>
+<version>2010.02-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-smpp-consumer-service-unit</artifactId>
+<version>2010.01-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-smpp-consumer-service-unit</artifactId>
+<version>2009.01-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-shared-library</artifactId>
+<version>2009.01-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-service-unit</artifactId>
+<version>2009.01-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-service-engine</artifactId>
+<version>2009.01-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-service-assembly</artifactId>
+<version>2009.01-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-scripting-service-unit</artifactId>
+<version>2009.01-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-script-service-unit</artifactId>
+<version>2009.01-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-saxon-xslt-service-unit</artifactId>
+<version>2010.02-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-saxon-xslt-service-unit</artifactId>
+<version>2010.01-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-saxon-xslt-service-unit</artifactId>
+<version>2009.01-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-saxon-xquery-service-unit</artifactId>
+<version>2010.02-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-saxon-xquery-service-unit</artifactId>
+<version>2010.01-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-saxon-xquery-service-unit</artifactId>
+<version>2009.01-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-quartz-simple-trigger-service-unit</artifactId>
+<version>2010.02-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-quartz-simple-trigger-service-unit</artifactId>
+<version>2010.01-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-quartz-service-unit</artifactId>
+<version>2009.01-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-quartz-custom-marshaler-service-unit</artifactId>
+<version>2010.02-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-quartz-custom-marshaler-service-unit</artifactId>
+<version>2010.01-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-quartz-cron-trigger-service-unit</artifactId>
+<version>2010.02-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-quartz-cron-trigger-service-unit</artifactId>
+<version>2010.01-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-project-root</artifactId>
+<version>2009.01-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-osworkflow-service-unit</artifactId>
+<version>2009.01-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-osgi-cxf-wsdl-first-archetype</artifactId>
+<version>2009.01-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-osgi-cxf-code-first-archetype</artifactId>
+<version>2009.01-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-osgi-camel-archetype</artifactId>
+<version>2009.01-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-ode-service-unit</artifactId>
+<version>2009.01-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-mail-service-unit</artifactId>
+<version>2009.01-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-mail-sender-service-unit</artifactId>
+<version>2010.02-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-mail-sender-service-unit</artifactId>
+<version>2010.01-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-mail-poller-service-unit</artifactId>
+<version>2010.02-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-mail-poller-service-unit</artifactId>
+<version>2010.01-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-lwcontainer-service-unit</artifactId>
+<version>2009.01-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-jsr181-wsdl-first-service-unit</artifactId>
+<version>2009.01-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-jsr181-annotated-service-unit</artifactId>
+<version>2010.02-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-jsr181-annotated-service-unit</artifactId>
+<version>2010.01-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-jsr181-annotated-service-unit</artifactId>
+<version>2009.01-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-jms-soap-provider-service-unit</artifactId>
+<version>2010.02-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-jms-soap-provider-service-unit</artifactId>
+<version>2010.01-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-jms-soap-consumer-service-unit</artifactId>
+<version>2010.02-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-jms-soap-consumer-service-unit</artifactId>
+<version>2010.01-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-jms-provider-service-unit</artifactId>
+<version>2010.02-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-jms-provider-service-unit</artifactId>
+<version>2010.01-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-jms-provider-service-unit</artifactId>
+<version>2009.01-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-jms-jca-consumer-service-unit</artifactId>
+<version>2010.02-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-jms-jca-consumer-service-unit</artifactId>
+<version>2010.01-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-jms-consumer-service-unit</artifactId>
+<version>2010.02-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-jms-consumer-service-unit</artifactId>
+<version>2010.01-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-jms-consumer-service-unit</artifactId>
+<version>2009.01-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-http-soap-provider-service-unit</artifactId>
+<version>2010.02-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-http-soap-provider-service-unit</artifactId>
+<version>2010.01-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-http-soap-consumer-service-unit</artifactId>
+<version>2010.02-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-http-soap-consumer-service-unit</artifactId>
+<version>2010.01-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-http-provider-service-unit</artifactId>
+<version>2010.02-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-http-provider-service-unit</artifactId>
+<version>2010.01-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-http-provider-service-unit</artifactId>
+<version>2009.01-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-http-consumer-service-unit</artifactId>
+<version>2010.02-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-http-consumer-service-unit</artifactId>
+<version>2010.01-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-http-consumer-service-unit</artifactId>
+<version>2009.01-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-ftp-sender-service-unit</artifactId>
+<version>2010.02-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-ftp-sender-service-unit</artifactId>
+<version>2010.01-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-ftp-sender-service-unit</artifactId>
+<version>2009.01-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-ftp-poller-service-unit</artifactId>
+<version>2010.02-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-ftp-poller-service-unit</artifactId>
+<version>2010.01-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-ftp-poller-service-unit</artifactId>
+<version>2009.01-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-file-sender-service-unit</artifactId>
+<version>2010.02-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-file-sender-service-unit</artifactId>
+<version>2010.01-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-file-sender-service-unit</artifactId>
+<version>2009.01-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-file-poller-service-unit</artifactId>
+<version>2010.02-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-file-poller-service-unit</artifactId>
+<version>2010.01-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-file-poller-service-unit</artifactId>
+<version>2009.01-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-exec-service-unit</artifactId>
+<version>2009.01-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-embedded-simple</artifactId>
+<version>2009.01-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-eip-service-unit</artifactId>
+<version>2009.01-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-drools-service-unit</artifactId>
+<version>2009.01-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-cxf-se-wsdl-first-service-unit</artifactId>
+<version>2009.01-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-cxf-se-service-unit</artifactId>
+<version>2009.01-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-cxf-bc-service-unit</artifactId>
+<version>2009.01-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-cxf-bc-provider-service-unit</artifactId>
+<version>2010.02-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-cxf-bc-provider-service-unit</artifactId>
+<version>2010.01-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-cxf-bc-consumer-service-unit</artifactId>
+<version>2010.02-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-cxf-bc-consumer-service-unit</artifactId>
+<version>2010.01-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-camel-service-unit</artifactId>
+<version>2009.01-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-binding-component</artifactId>
+<version>2009.01-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling</groupId>
+<artifactId>servicemix-bean-service-unit</artifactId>
+<version>2009.01-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling.archetypes</groupId>
+<artifactId>servicemix-osgi-bundle</artifactId>
+<version>5.0.7-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling.archetypes</groupId>
+<artifactId>servicemix-cxf-wsdl-first-osgi-bundle</artifactId>
+<version>5.0.7-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling.archetypes</groupId>
+<artifactId>servicemix-cxf-code-first-osgi-bundle</artifactId>
+<version>5.0.7-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.struts</groupId>
+<artifactId>struts2-archetype-dbportlet</artifactId>
+<version>2.3-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.struts</groupId>
+<artifactId>struts2-archetype-dbportlet</artifactId>
+<version>2.2.2-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.struts</groupId>
+<artifactId>struts2-archetype-convention</artifactId>
+<version>2.3-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.struts</groupId>
+<artifactId>struts2-archetype-convention</artifactId>
+<version>2.2.2-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.struts</groupId>
+<artifactId>struts2-archetype-blank</artifactId>
+<version>2.3-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.struts</groupId>
+<artifactId>struts2-archetype-blank</artifactId>
+<version>2.2.2-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.syncope</groupId>
+<artifactId>syncope-archetype</artifactId>
+<version>1.1.0-incubating-SNAPSHOT</version>
+<description>Apache Syncope Archetype</description>
+</archetype>
+<archetype>
+<groupId>org.apache.syncope</groupId>
+<artifactId>syncope-archetype</artifactId>
+<version>1.1.0-cxf-SNAPSHOT</version>
+<description>Apache Syncope Archetype</description>
+</archetype>
+<archetype>
+<groupId>org.apache.syncope</groupId>
+<artifactId>syncope-archetype</artifactId>
+<version>1.1.0-RP-SNAPSHOT</version>
+<description>Apache Syncope Archetype</description>
+</archetype>
+<archetype>
+<groupId>org.apache.syncope</groupId>
+<artifactId>syncope-archetype</artifactId>
+<version>1.1-SNAPSHOT</version>
+<description>Apache Syncope Archetype</description>
+</archetype>
+<archetype>
+<groupId>org.apache.syncope</groupId>
+<artifactId>syncope-archetype</artifactId>
+<version>1.0.4-incubating-SNAPSHOT</version>
+<description>Apache Syncope Archetype</description>
+</archetype>
+<archetype>
+<groupId>org.apache.syncope</groupId>
+<artifactId>syncope-archetype</artifactId>
+<version>1.0.10-SNAPSHOT</version>
+<description>Apache Syncope Archetype</description>
+</archetype>
+<archetype>
+<groupId>org.apache.tapestry</groupId>
+<artifactId>quickstart</artifactId>
+<version>5.4-alpha-3-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.tapestry</groupId>
+<artifactId>quickstart</artifactId>
+<version>5.4-alpha-2-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.tapestry</groupId>
+<artifactId>quickstart</artifactId>
+<version>5.4-alpha-1-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.tuscany.sca</groupId>
+<artifactId>tuscany-quickstart-stripes</artifactId>
+<version>2.5-SNAPSHOT</version>
+<description>Create a simple Apache Tuscany SCA webapp project using the Stripes Web Framework</description>
+</archetype>
+<archetype>
+<groupId>org.apache.tuscany.sca</groupId>
+<artifactId>tuscany-quickstart-stripes</artifactId>
+<version>2.0-SNAPSHOT</version>
+<description>Create a simple Apache Tuscany SCA webapp project using the Stripes Web Framework</description>
+</archetype>
+<archetype>
+<groupId>org.apache.tuscany.sca</groupId>
+<artifactId>tuscany-quickstart-jsf</artifactId>
+<version>2.5-SNAPSHOT</version>
+<description>Create a Tuscany SCA and JSF project</description>
+</archetype>
+<archetype>
+<groupId>org.apache.tuscany.sca</groupId>
+<artifactId>tuscany-quickstart-jsf</artifactId>
+<version>2.0-SNAPSHOT</version>
+<description>Create a Tuscany SCA and JSF project</description>
+</archetype>
+<archetype>
+<groupId>org.apache.tuscany.sca</groupId>
+<artifactId>tuscany-quickstart-bpel</artifactId>
+<version>2.5-SNAPSHOT</version>
+<description>Create an SCA Webapp project using BPEL</description>
+</archetype>
+<archetype>
+<groupId>org.apache.tuscany.sca</groupId>
+<artifactId>tuscany-quickstart-bpel</artifactId>
+<version>2.0-SNAPSHOT</version>
+<description>Create an SCA Webapp project using BPEL</description>
+</archetype>
+<archetype>
+<groupId>org.apache.tuscany.sca</groupId>
+<artifactId>tuscany-quickstart</artifactId>
+<version>2.5-SNAPSHOT</version>
+<description>Create a simple Apache Tuscany SCA webapp project</description>
+</archetype>
+<archetype>
+<groupId>org.apache.tuscany.sca</groupId>
+<artifactId>tuscany-quickstart</artifactId>
+<version>2.0-SNAPSHOT</version>
+<description>Create a simple Apache Tuscany SCA webapp project</description>
+</archetype>
+<archetype>
+<groupId>org.apache.tuscany.sca</groupId>
+<artifactId>tuscany-policy-archetype</artifactId>
+<version>2.5-SNAPSHOT</version>
+<description>Create a Tuscany policy extension project</description>
+</archetype>
+<archetype>
+<groupId>org.apache.tuscany.sca</groupId>
+<artifactId>tuscany-policy-archetype</artifactId>
+<version>2.0-SNAPSHOT</version>
+<description>Create a Tuscany policy extension project</description>
+</archetype>
+<archetype>
+<groupId>org.apache.tuscany.sca</groupId>
+<artifactId>tuscany-contribution-zip</artifactId>
+<version>2.5-SNAPSHOT</version>
+<description>Create an SCA ZIP contribution project</description>
+</archetype>
+<archetype>
+<groupId>org.apache.tuscany.sca</groupId>
+<artifactId>tuscany-contribution-zip</artifactId>
+<version>2.0-SNAPSHOT</version>
+<description>Create an SCA ZIP contribution project</description>
+</archetype>
+<archetype>
+<groupId>org.apache.tuscany.sca</groupId>
+<artifactId>tuscany-contribution-jar</artifactId>
+<version>2.5-SNAPSHOT</version>
+<description>Create an SCA JAR contribution project</description>
+</archetype>
+<archetype>
+<groupId>org.apache.tuscany.sca</groupId>
+<artifactId>tuscany-contribution-jar</artifactId>
+<version>2.0-SNAPSHOT</version>
+<description>Create an SCA JAR contribution project</description>
+</archetype>
+<archetype>
+<groupId>org.apache.tuscany.sca</groupId>
+<artifactId>tuscany-binding-archetype</artifactId>
+<version>2.5-SNAPSHOT</version>
+<description>Create a Tuscany binding extension project</description>
+</archetype>
+<archetype>
+<groupId>org.apache.tuscany.sca</groupId>
+<artifactId>tuscany-binding-archetype</artifactId>
+<version>2.0-SNAPSHOT</version>
+<description>Create a Tuscany binding extension project</description>
+</archetype>
+<archetype>
+<groupId>org.apache.wicket</groupId>
+<artifactId>wicket-archetype-quickstart</artifactId>
+<version>6.1-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.wicket</groupId>
+<artifactId>wicket-archetype-quickstart</artifactId>
+<version>6.0-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.wicket</groupId>
+<artifactId>wicket-archetype-quickstart</artifactId>
+<version>1.5-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.sling</groupId>
+<artifactId>sling-servlet-archetype</artifactId>
+<version>1.0.1-SNAPSHOT</version>
+<description>Maven archetype for Sling Servlets</description>
+</archetype>
+<archetype>
+<groupId>org.apache.sling</groupId>
+<artifactId>sling-servlet-archetype</artifactId>
+<version>0.0.1-SNAPSHOT</version>
+<description>Maven archetype for Sling Servlets</description>
+</archetype>
+<archetype>
+<groupId>org.apache.sling</groupId>
+<artifactId>sling-resources-archetype</artifactId>
+<version>0.0.1-SNAPSHOT</version>
+<description>Maven archetype for Sling Resources</description>
+</archetype>
+<archetype>
+<groupId>org.apache.sling</groupId>
+<artifactId>sling-launchpad-webapp-archetype</artifactId>
+<version>0.0.1-SNAPSHOT</version>
+<description>Maven archetype for Sling Launchpad Webapp applications</description>
+</archetype>
+<archetype>
+<groupId>org.apache.sling</groupId>
+<artifactId>sling-launchpad-standalone-archetype</artifactId>
+<version>0.0.1-SNAPSHOT</version>
+<description>Maven archetype for Sling Launchpad Standalone applications</description>
+</archetype>
+<archetype>
+<groupId>org.apache.sling</groupId>
+<artifactId>sling-jcrinstall-bundle-archetype</artifactId>
+<version>1.0.1-SNAPSHOT</version>
+<description>Maven archetype for a generic OSGi bundle installed via JCR Install.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.sling</groupId>
+<artifactId>sling-bundle-archetype</artifactId>
+<version>1.0.1-SNAPSHOT</version>
+<description>Maven archetype for a generic OSGi bundle.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.cxf</groupId>
+<artifactId>cxf-jaxrs-service-archetype</artifactId>
+<version>2.5.1-SNAPSHOT</version>
+<description>Simple CXF JAX-RS webapp service using Spring configuration</description>
+</archetype>
+<archetype>
+<groupId>org.apache.geronimo.ext.tomcat</groupId>
+<artifactId>tomcat-parent-archetype</artifactId>
+<version>1.0-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-webconsole</artifactId>
+<version>2.9.0-RC2-SNAPSHOT</version>
+<description>Creates a new Camel project that deploys the Camel Web Console, REST API, and your routes as a WAR</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-webconsole</artifactId>
+<version>2.9-SNAPSHOT</version>
+<description>Creates a new Camel project that deploys the Camel Web Console, REST API, and your routes as a WAR</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-webconsole</artifactId>
+<version>2.8-SNAPSHOT</version>
+<description>Creates a new Camel project that deploys the Camel Web Console, REST API, and your routes as a WAR</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-webconsole</artifactId>
+<version>2.7.6-SNAPSHOT</version>
+<description>Creates a new Camel project that deploys the Camel Web Console, REST API, and your routes as a WAR</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-webconsole</artifactId>
+<version>2.7-SNAPSHOT</version>
+<description>Creates a new Camel project that deploys the Camel Web Console, REST API, and your routes as a WAR</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-webconsole</artifactId>
+<version>2.14-SNAPSHOT</version>
+<description>Creates a new Camel project that deploys the Camel Web Console, REST API, and your routes as a WAR</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-webconsole</artifactId>
+<version>2.13-SNAPSHOT</version>
+<description>Creates a new Camel project that deploys the Camel Web Console, REST API, and your routes as a WAR</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-webconsole</artifactId>
+<version>2.12.6-SNAPSHOT</version>
+<description>Creates a new Camel project that deploys the Camel Web Console, REST API, and your routes as a WAR</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-webconsole</artifactId>
+<version>2.12-SNAPSHOT</version>
+<description>Creates a new Camel project that deploys the Camel Web Console, REST API, and your routes as a WAR</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-webconsole</artifactId>
+<version>2.11.5-SNAPSHOT</version>
+<description>Creates a new Camel project that deploys the Camel Web Console, REST API, and your routes as a WAR</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-webconsole</artifactId>
+<version>2.11-SNAPSHOT</version>
+<description>Creates a new Camel project that deploys the Camel Web Console, REST API, and your routes as a WAR</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-webconsole</artifactId>
+<version>2.10.8-SNAPSHOT</version>
+<description>Creates a new Camel project that deploys the Camel Web Console, REST API, and your routes as a WAR</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-webconsole</artifactId>
+<version>2.10-SNAPSHOT</version>
+<description>Creates a new Camel project that deploys the Camel Web Console, REST API, and your routes as a WAR</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-web</artifactId>
+<version>2.9.0-RC2-SNAPSHOT</version>
+<description>Creates a new Camel web project that deploys the Camel routes as a WAR</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-web</artifactId>
+<version>2.9-SNAPSHOT</version>
+<description>Creates a new Camel web project that deploys the Camel routes as a WAR</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-web</artifactId>
+<version>2.8-SNAPSHOT</version>
+<description>Creates a new Camel web project that deploys the Camel routes as a WAR</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-web</artifactId>
+<version>2.7.6-SNAPSHOT</version>
+<description>Creates a new Camel web project that deploys the Camel routes as a WAR</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-web</artifactId>
+<version>2.7-SNAPSHOT</version>
+<description>Creates a new Camel web project that deploys the Camel routes as a WAR</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-web</artifactId>
+<version>2.14-SNAPSHOT</version>
+<description>Creates a new Camel web project that deploys the Camel routes as a WAR</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-web</artifactId>
+<version>2.13-SNAPSHOT</version>
+<description>Creates a new Camel web project that deploys the Camel routes as a WAR</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-web</artifactId>
+<version>2.12.6-SNAPSHOT</version>
+<description>Creates a new Camel web project that deploys the Camel routes as a WAR</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-web</artifactId>
+<version>2.12-SNAPSHOT</version>
+<description>Creates a new Camel web project that deploys the Camel routes as a WAR</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-web</artifactId>
+<version>2.11.5-SNAPSHOT</version>
+<description>Creates a new Camel web project that deploys the Camel routes as a WAR</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-web</artifactId>
+<version>2.11-SNAPSHOT</version>
+<description>Creates a new Camel web project that deploys the Camel routes as a WAR</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-web</artifactId>
+<version>2.10.8-SNAPSHOT</version>
+<description>Creates a new Camel web project that deploys the Camel routes as a WAR</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-web</artifactId>
+<version>2.10-SNAPSHOT</version>
+<description>Creates a new Camel web project that deploys the Camel routes as a WAR</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-war</artifactId>
+<version>2.7-SNAPSHOT</version>
+<description>Creates a new Camel project that deploys the Camel Web Console, REST API, and your routes as a WAR</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-war</artifactId>
+<version>2.6-SNAPSHOT</version>
+<description>Creates a new Camel project that deploys the Camel Web Console, REST API, and your routes as a WAR</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-war</artifactId>
+<version>2.5-SNAPSHOT</version>
+<description>Creates a new Camel project that deploys the Camel Web Console, REST API, and your routes as a WAR</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-war</artifactId>
+<version>2.4-SNAPSHOT</version>
+<description>Creates a new Camel project that deploys the Camel Web Console, REST API, and your routes as a WAR</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-war</artifactId>
+<version>2.3-SNAPSHOT</version>
+<description>Creates a new Camel project that deploys the Camel Web Console, REST API, and your routes as a WAR</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-war</artifactId>
+<version>2.2-SNAPSHOT</version>
+<description>Creates a new Camel project that deploys the Camel Web Console, REST API, and your routes as a WAR</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-war</artifactId>
+<version>2.1-SNAPSHOT</version>
+<description>Creates a new Camel project that deploys the Camel Web Console, REST API, and your routes as a WAR</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-war</artifactId>
+<version>2.0-SNAPSHOT</version>
+<description>Creates a new Camel project that deploys the Camel Web Console, REST API, and your routes as a WAR</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-spring-dm</artifactId>
+<version>2.9.0-RC2-SNAPSHOT</version>
+<description>Creates a new Camel project with added Spring DSL support. Ready to be deployed in OSGi.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-spring-dm</artifactId>
+<version>2.9-SNAPSHOT</version>
+<description>Creates a new Camel project with added Spring DSL support. Ready to be deployed in OSGi.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-spring-dm</artifactId>
+<version>2.8-SNAPSHOT</version>
+<description>Creates a new Camel project with added Spring DSL support. Ready to be deployed in OSGi.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-spring-dm</artifactId>
+<version>2.14-SNAPSHOT</version>
+<description>Creates a new Camel project with added Spring DSL support. Ready to be deployed in OSGi.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-spring-dm</artifactId>
+<version>2.13-SNAPSHOT</version>
+<description>Creates a new Camel project with added Spring DSL support. Ready to be deployed in OSGi.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-spring-dm</artifactId>
+<version>2.12.6-SNAPSHOT</version>
+<description>Creates a new Camel project with added Spring DSL support. Ready to be deployed in OSGi.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-spring-dm</artifactId>
+<version>2.12-SNAPSHOT</version>
+<description>Creates a new Camel project with added Spring DSL support. Ready to be deployed in OSGi.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-spring-dm</artifactId>
+<version>2.11.5-SNAPSHOT</version>
+<description>Creates a new Camel project with added Spring DSL support. Ready to be deployed in OSGi.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-spring-dm</artifactId>
+<version>2.11-SNAPSHOT</version>
+<description>Creates a new Camel project with added Spring DSL support. Ready to be deployed in OSGi.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-spring-dm</artifactId>
+<version>2.10.8-SNAPSHOT</version>
+<description>Creates a new Camel project with added Spring DSL support. Ready to be deployed in OSGi.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-spring-dm</artifactId>
+<version>2.10-SNAPSHOT</version>
+<description>Creates a new Camel project with added Spring DSL support. Ready to be deployed in OSGi.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-spring</artifactId>
+<version>2.9.0-RC2-SNAPSHOT</version>
+<description>Creates a new Camel project with added Spring DSL support.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-spring</artifactId>
+<version>2.9-SNAPSHOT</version>
+<description>Creates a new Camel project with added Spring DSL support.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-spring</artifactId>
+<version>2.8-SNAPSHOT</version>
+<description>Creates a new Camel project with added Spring DSL support.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-spring</artifactId>
+<version>2.7.6-SNAPSHOT</version>
+<description>Creates a new Camel project with added Spring DSL support.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-spring</artifactId>
+<version>2.7-SNAPSHOT</version>
+<description>Creates a new Camel project with added Spring DSL support.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-spring</artifactId>
+<version>2.6-SNAPSHOT</version>
+<description>Creates a new Camel project with added Spring DSL support.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-spring</artifactId>
+<version>2.5-SNAPSHOT</version>
+<description>Creates a new Camel project with added Spring DSL support.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-spring</artifactId>
+<version>2.4-SNAPSHOT</version>
+<description>Creates a new Camel project with added Spring DSL support.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-spring</artifactId>
+<version>2.3-SNAPSHOT</version>
+<description>Creates a new Camel project with added Spring DSL support.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-spring</artifactId>
+<version>2.2-SNAPSHOT</version>
+<description>Creates a new Camel project with added Spring DSL support.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-spring</artifactId>
+<version>2.14-SNAPSHOT</version>
+<description>Creates a new Camel project with added Spring DSL support.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-spring</artifactId>
+<version>2.13-SNAPSHOT</version>
+<description>Creates a new Camel project with added Spring DSL support.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-spring</artifactId>
+<version>2.12.6-SNAPSHOT</version>
+<description>Creates a new Camel project with added Spring DSL support.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-spring</artifactId>
+<version>2.12-SNAPSHOT</version>
+<description>Creates a new Camel project with added Spring DSL support.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-spring</artifactId>
+<version>2.11.5-SNAPSHOT</version>
+<description>Creates a new Camel project with added Spring DSL support.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-spring</artifactId>
+<version>2.11-SNAPSHOT</version>
+<description>Creates a new Camel project with added Spring DSL support.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-spring</artifactId>
+<version>2.10.8-SNAPSHOT</version>
+<description>Creates a new Camel project with added Spring DSL support.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-spring</artifactId>
+<version>2.10-SNAPSHOT</version>
+<description>Creates a new Camel project with added Spring DSL support.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-spring</artifactId>
+<version>2.1-SNAPSHOT</version>
+<description>Creates a new Camel project with added Spring DSL support.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-spring</artifactId>
+<version>2.0-SNAPSHOT</version>
+<description>Creates a new Camel project with added Spring DSL support.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-scala</artifactId>
+<version>2.9.0-RC2-SNAPSHOT</version>
+<description>Creates a new Camel project using Scala DSL.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-scala</artifactId>
+<version>2.9-SNAPSHOT</version>
+<description>Creates a new Camel project using Scala DSL.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-scala</artifactId>
+<version>2.8-SNAPSHOT</version>
+<description>Creates a new Camel project using Scala DSL.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-scala</artifactId>
+<version>2.7.6-SNAPSHOT</version>
+<description>Creates a new Camel project using Scala DSL.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-scala</artifactId>
+<version>2.7-SNAPSHOT</version>
+<description>Creates a new Camel project using Scala DSL.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-scala</artifactId>
+<version>2.6-SNAPSHOT</version>
+<description>Creates a new Camel project using Scala DSL.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-scala</artifactId>
+<version>2.5-SNAPSHOT</version>
+<description>Creates a new Camel project using Scala DSL.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-scala</artifactId>
+<version>2.4-SNAPSHOT</version>
+<description>Creates a new Camel project using Scala DSL.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-scala</artifactId>
+<version>2.3-SNAPSHOT</version>
+<description>Creates a new Camel project using Scala DSL.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-scala</artifactId>
+<version>2.2-SNAPSHOT</version>
+<description>Creates a new Camel project using Scala DSL.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-scala</artifactId>
+<version>2.14-SNAPSHOT</version>
+<description>Creates a new Camel project using Scala DSL.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-scala</artifactId>
+<version>2.13-SNAPSHOT</version>
+<description>Creates a new Camel project using Scala DSL.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-scala</artifactId>
+<version>2.12.6-SNAPSHOT</version>
+<description>Creates a new Camel project using Scala DSL.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-scala</artifactId>
+<version>2.12-SNAPSHOT</version>
+<description>Creates a new Camel project using Scala DSL.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-scala</artifactId>
+<version>2.11.5-SNAPSHOT</version>
+<description>Creates a new Camel project using Scala DSL.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-scala</artifactId>
+<version>2.11-SNAPSHOT</version>
+<description>Creates a new Camel project using Scala DSL.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-scala</artifactId>
+<version>2.10.8-SNAPSHOT</version>
+<description>Creates a new Camel project using Scala DSL.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-scala</artifactId>
+<version>2.10-SNAPSHOT</version>
+<description>Creates a new Camel project using Scala DSL.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-scala</artifactId>
+<version>2.1-SNAPSHOT</version>
+<description>Creates a new Camel project using Scala DSL.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-scala</artifactId>
+<version>2.0-SNAPSHOT</version>
+<description>Creates a new Camel project using Scala DSL.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-light-war</artifactId>
+<version>2.7-SNAPSHOT</version>
+<description>Creates a new Camel project that deploys the Camel routes as a WAR</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-java</artifactId>
+<version>2.9.0-RC2-SNAPSHOT</version>
+<description>Creates a new Camel project using Java DSL.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-java</artifactId>
+<version>2.9-SNAPSHOT</version>
+<description>Creates a new Camel project using Java DSL.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-java</artifactId>
+<version>2.8-SNAPSHOT</version>
+<description>Creates a new Camel project using Java DSL.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-java</artifactId>
+<version>2.7.6-SNAPSHOT</version>
+<description>Creates a new Camel project using Java DSL.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-java</artifactId>
+<version>2.7-SNAPSHOT</version>
+<description>Creates a new Camel project using Java DSL.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-java</artifactId>
+<version>2.6-SNAPSHOT</version>
+<description>Creates a new Camel project using Java DSL.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-java</artifactId>
+<version>2.5-SNAPSHOT</version>
+<description>Creates a new Camel project using Java DSL.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-java</artifactId>
+<version>2.4-SNAPSHOT</version>
+<description>Creates a new Camel project using Java DSL.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-java</artifactId>
+<version>2.3-SNAPSHOT</version>
+<description>Creates a new Camel project using Java DSL.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-java</artifactId>
+<version>2.2-SNAPSHOT</version>
+<description>Creates a new Camel project using Java DSL.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-java</artifactId>
+<version>2.14-SNAPSHOT</version>
+<description>Creates a new Camel project using Java DSL.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-java</artifactId>
+<version>2.13-SNAPSHOT</version>
+<description>Creates a new Camel project using Java DSL.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-java</artifactId>
+<version>2.12.6-SNAPSHOT</version>
+<description>Creates a new Camel project using Java DSL.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-java</artifactId>
+<version>2.12-SNAPSHOT</version>
+<description>Creates a new Camel project using Java DSL.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-java</artifactId>
+<version>2.11.5-SNAPSHOT</version>
+<description>Creates a new Camel project using Java DSL.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-java</artifactId>
+<version>2.11-SNAPSHOT</version>
+<description>Creates a new Camel project using Java DSL.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-java</artifactId>
+<version>2.10.8-SNAPSHOT</version>
+<description>Creates a new Camel project using Java DSL.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-java</artifactId>
+<version>2.10-SNAPSHOT</version>
+<description>Creates a new Camel project using Java DSL.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-java</artifactId>
+<version>2.1-SNAPSHOT</version>
+<description>Creates a new Camel project using Java DSL.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-java</artifactId>
+<version>2.0-SNAPSHOT</version>
+<description>Creates a new Camel project using Java DSL.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-groovy</artifactId>
+<version>2.14-SNAPSHOT</version>
+<description>Creates a new Camel project using Groovy DSL.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-groovy</artifactId>
+<version>2.13-SNAPSHOT</version>
+<description>Creates a new Camel project using Groovy DSL.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-groovy</artifactId>
+<version>2.12.6-SNAPSHOT</version>
+<description>Creates a new Camel project using Groovy DSL.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-groovy</artifactId>
+<version>2.12-SNAPSHOT</version>
+<description>Creates a new Camel project using Groovy DSL.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-groovy</artifactId>
+<version>2.11.5-SNAPSHOT</version>
+<description>Creates a new Camel project using Groovy DSL.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-groovy</artifactId>
+<version>2.11-SNAPSHOT</version>
+<description>Creates a new Camel project using Groovy DSL.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-dataformat</artifactId>
+<version>2.9-SNAPSHOT</version>
+<description>Creates a new Camel data format.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-dataformat</artifactId>
+<version>2.14-SNAPSHOT</version>
+<description>Creates a new Camel data format.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-dataformat</artifactId>
+<version>2.13-SNAPSHOT</version>
+<description>Creates a new Camel data format.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-dataformat</artifactId>
+<version>2.12.6-SNAPSHOT</version>
+<description>Creates a new Camel data format.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-dataformat</artifactId>
+<version>2.12-SNAPSHOT</version>
+<description>Creates a new Camel data format.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-dataformat</artifactId>
+<version>2.11.5-SNAPSHOT</version>
+<description>Creates a new Camel data format.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-dataformat</artifactId>
+<version>2.11-SNAPSHOT</version>
+<description>Creates a new Camel data format.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-dataformat</artifactId>
+<version>2.10.8-SNAPSHOT</version>
+<description>Creates a new Camel data format.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-dataformat</artifactId>
+<version>2.10-SNAPSHOT</version>
+<description>Creates a new Camel data format.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-cxf-contract-first-blueprint</artifactId>
+<version>2.14-SNAPSHOT</version>
+<description>Creates a new Camel project with Apache CXF contract-first example using OSGi blueprint.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-cxf-contract-first-blueprint</artifactId>
+<version>2.13-SNAPSHOT</version>
+<description>Creates a new Camel project with Apache CXF contract-first example using OSGi blueprint.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-cxf-contract-first-blueprint</artifactId>
+<version>2.12.6-SNAPSHOT</version>
+<description>Creates a new Camel project with Apache CXF contract-first example using OSGi blueprint.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-cxf-code-first-blueprint</artifactId>
+<version>2.14-SNAPSHOT</version>
+<description>Creates a new Camel project with Apache CXF code-first example using OSGi blueprint.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-cxf-code-first-blueprint</artifactId>
+<version>2.13-SNAPSHOT</version>
+<description>Creates a new Camel project with Apache CXF code-first example using OSGi blueprint.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-cxf-code-first-blueprint</artifactId>
+<version>2.12.6-SNAPSHOT</version>
+<description>Creates a new Camel project with Apache CXF code-first example using OSGi blueprint.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-component-scala</artifactId>
+<version>2.14-SNAPSHOT</version>
+<description>Creates a new Camel component with Scala.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-component-scala</artifactId>
+<version>2.13-SNAPSHOT</version>
+<description>Creates a new Camel component with Scala.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-component-scala</artifactId>
+<version>2.12.6-SNAPSHOT</version>
+<description>Creates a new Camel component with Scala.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-component-scala</artifactId>
+<version>2.12-SNAPSHOT</version>
+<description>Creates a new Camel component with Scala.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-component-scala</artifactId>
+<version>2.11.5-SNAPSHOT</version>
+<description>Creates a new Camel component with Scala.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-component-scala</artifactId>
+<version>2.11-SNAPSHOT</version>
+<description>Creates a new Camel component with Scala.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-component-scala</artifactId>
+<version>2.10.8-SNAPSHOT</version>
+<description>Creates a new Camel component with Scala.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-component-scala</artifactId>
+<version>2.10-SNAPSHOT</version>
+<description>Creates a new Camel component with Scala.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-component</artifactId>
+<version>2.9.0-RC2-SNAPSHOT</version>
+<description>Creates a new Camel component.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-component</artifactId>
+<version>2.9-SNAPSHOT</version>
+<description>Creates a new Camel component.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-component</artifactId>
+<version>2.8-SNAPSHOT</version>
+<description>Creates a new Camel component.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-component</artifactId>
+<version>2.7.6-SNAPSHOT</version>
+<description>Creates a new Camel component.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-component</artifactId>
+<version>2.7-SNAPSHOT</version>
+<description>Creates a new Camel component.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-component</artifactId>
+<version>2.6-SNAPSHOT</version>
+<description>Creates a new Camel component.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-component</artifactId>
+<version>2.5-SNAPSHOT</version>
+<description>Creates a new Camel component.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-component</artifactId>
+<version>2.4-SNAPSHOT</version>
+<description>Creates a new Camel component.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-component</artifactId>
+<version>2.3-SNAPSHOT</version>
+<description>Creates a new Camel component.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-component</artifactId>
+<version>2.2-SNAPSHOT</version>
+<description>Creates a new Camel component.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-component</artifactId>
+<version>2.14-SNAPSHOT</version>
+<description>Creates a new Camel component.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-component</artifactId>
+<version>2.13-SNAPSHOT</version>
+<description>Creates a new Camel component.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-component</artifactId>
+<version>2.12.6-SNAPSHOT</version>
+<description>Creates a new Camel component.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-component</artifactId>
+<version>2.12-SNAPSHOT</version>
+<description>Creates a new Camel component.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-component</artifactId>
+<version>2.11.5-SNAPSHOT</version>
+<description>Creates a new Camel component.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-component</artifactId>
+<version>2.11-SNAPSHOT</version>
+<description>Creates a new Camel component.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-component</artifactId>
+<version>2.10.8-SNAPSHOT</version>
+<description>Creates a new Camel component.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-component</artifactId>
+<version>2.10-SNAPSHOT</version>
+<description>Creates a new Camel component.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-component</artifactId>
+<version>2.1-SNAPSHOT</version>
+<description>Creates a new Camel component.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-component</artifactId>
+<version>2.0-SNAPSHOT</version>
+<description>Creates a new Camel component.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-blueprint</artifactId>
+<version>2.9.0-RC2-SNAPSHOT</version>
+<description>Creates a new Camel project with OSGi blueprint support. Ready to be deployed in OSGi.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-blueprint</artifactId>
+<version>2.9-SNAPSHOT</version>
+<description>Creates a new Camel project with OSGi blueprint support. Ready to be deployed in OSGi.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-blueprint</artifactId>
+<version>2.8-SNAPSHOT</version>
+<description>Creates a new Camel project with OSGi blueprint support. Ready to be deployed in OSGi.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-blueprint</artifactId>
+<version>2.14-SNAPSHOT</version>
+<description>Creates a new Camel project with OSGi blueprint support. Ready to be deployed in OSGi.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-blueprint</artifactId>
+<version>2.13-SNAPSHOT</version>
+<description>Creates a new Camel project with OSGi blueprint support. Ready to be deployed in OSGi.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-blueprint</artifactId>
+<version>2.12.6-SNAPSHOT</version>
+<description>Creates a new Camel project with OSGi blueprint support. Ready to be deployed in OSGi.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-blueprint</artifactId>
+<version>2.12-SNAPSHOT</version>
+<description>Creates a new Camel project with OSGi blueprint support. Ready to be deployed in OSGi.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-blueprint</artifactId>
+<version>2.11.5-SNAPSHOT</version>
+<description>Creates a new Camel project with OSGi blueprint support. Ready to be deployed in OSGi.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-blueprint</artifactId>
+<version>2.11-SNAPSHOT</version>
+<description>Creates a new Camel project with OSGi blueprint support. Ready to be deployed in OSGi.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-blueprint</artifactId>
+<version>2.10.8-SNAPSHOT</version>
+<description>Creates a new Camel project with OSGi blueprint support. Ready to be deployed in OSGi.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-blueprint</artifactId>
+<version>2.10-SNAPSHOT</version>
+<description>Creates a new Camel project with OSGi blueprint support. Ready to be deployed in OSGi.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-api-component</artifactId>
+<version>2.14-SNAPSHOT</version>
+<description>Creates a new Camel component that wraps one or more API proxies.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-activemq</artifactId>
+<version>2.9.0-RC2-SNAPSHOT</version>
+<description>Creates a new Camel project that configures and interacts with ActiveMQ.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-activemq</artifactId>
+<version>2.9-SNAPSHOT</version>
+<description>Creates a new Camel project that configures and interacts with ActiveMQ.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-activemq</artifactId>
+<version>2.8-SNAPSHOT</version>
+<description>Creates a new Camel project that configures and interacts with ActiveMQ.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-activemq</artifactId>
+<version>2.7.6-SNAPSHOT</version>
+<description>Creates a new Camel project that configures and interacts with ActiveMQ.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-activemq</artifactId>
+<version>2.7-SNAPSHOT</version>
+<description>Creates a new Camel project that configures and interacts with ActiveMQ.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-activemq</artifactId>
+<version>2.6-SNAPSHOT</version>
+<description>Creates a new Camel project that configures and interacts with ActiveMQ.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-activemq</artifactId>
+<version>2.5-SNAPSHOT</version>
+<description>Creates a new Camel project that configures and interacts with ActiveMQ.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-activemq</artifactId>
+<version>2.4-SNAPSHOT</version>
+<description>Creates a new Camel project that configures and interacts with ActiveMQ.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-activemq</artifactId>
+<version>2.3-SNAPSHOT</version>
+<description>Creates a new Camel project that configures and interacts with ActiveMQ.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-activemq</artifactId>
+<version>2.2-SNAPSHOT</version>
+<description>Creates a new Camel project that configures and interacts with ActiveMQ.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-activemq</artifactId>
+<version>2.14-SNAPSHOT</version>
+<description>Creates a new Camel project that configures and interacts with ActiveMQ.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-activemq</artifactId>
+<version>2.13-SNAPSHOT</version>
+<description>Creates a new Camel project that configures and interacts with ActiveMQ.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-activemq</artifactId>
+<version>2.12.6-SNAPSHOT</version>
+<description>Creates a new Camel project that configures and interacts with ActiveMQ.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-activemq</artifactId>
+<version>2.12-SNAPSHOT</version>
+<description>Creates a new Camel project that configures and interacts with ActiveMQ.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-activemq</artifactId>
+<version>2.11.5-SNAPSHOT</version>
+<description>Creates a new Camel project that configures and interacts with ActiveMQ.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-activemq</artifactId>
+<version>2.11-SNAPSHOT</version>
+<description>Creates a new Camel project that configures and interacts with ActiveMQ.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-activemq</artifactId>
+<version>2.10.8-SNAPSHOT</version>
+<description>Creates a new Camel project that configures and interacts with ActiveMQ.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-activemq</artifactId>
+<version>2.10-SNAPSHOT</version>
+<description>Creates a new Camel project that configures and interacts with ActiveMQ.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-activemq</artifactId>
+<version>2.1-SNAPSHOT</version>
+<description>Creates a new Camel project that configures and interacts with ActiveMQ.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-activemq</artifactId>
+<version>2.0-SNAPSHOT</version>
+<description>Creates a new Camel project that configures and interacts with ActiveMQ.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.clerezza</groupId>
+<artifactId>org.apache.clerezza.internal.archetype</artifactId>
+<version>0.9-incubating-SNAPSHOT</version>
+<description>Generic archetype for clerezza projects</description>
+</archetype>
+<archetype>
+<groupId>org.apache.clerezza</groupId>
+<artifactId>internal.archetype</artifactId>
+<version>0.10-incubating-SNAPSHOT</version>
+<description>Generic archetype for clerezza projects</description>
+</archetype>
+<archetype>
+<groupId>org.apache.clerezza</groupId>
+<artifactId>internal.archetype</artifactId>
+<version>0.10-SNAPSHOT</version>
+<description>Generic archetype for clerezza projects</description>
+</archetype>
+<archetype>
+<groupId>org.apache.cxf.archetype</groupId>
+<artifactId>cxf-jaxws-javafirst</artifactId>
+<version>2.8.0-SNAPSHOT</version>
+<description>Creates a project for developing a Web service starting from Java code</description>
+</archetype>
+<archetype>
+<groupId>org.apache.cxf.archetype</groupId>
+<artifactId>cxf-jaxws-javafirst</artifactId>
+<version>2.5.12-SNAPSHOT</version>
+<description>Creates a project for developing a Web service starting from Java code</description>
+</archetype>
+<archetype>
+<groupId>org.apache.cxf.archetype</groupId>
+<artifactId>cxf-jaxws-javafirst</artifactId>
+<version>2.4.11-SNAPSHOT</version>
+<description>Creates a project for developing a Web service starting from Java code</description>
+</archetype>
+<archetype>
+<groupId>org.apache.cxf.archetype</groupId>
+<artifactId>cxf-jaxws-javafirst</artifactId>
+<version>2.2.13-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.cxf.archetype</groupId>
+<artifactId>cxf-jaxrs-service</artifactId>
+<version>2.8.0-SNAPSHOT</version>
+<description>Simple CXF JAX-RS webapp service using Spring configuration</description>
+</archetype>
+<archetype>
+<groupId>org.apache.cxf.archetype</groupId>
+<artifactId>cxf-jaxrs-service</artifactId>
+<version>2.5.12-SNAPSHOT</version>
+<description>Simple CXF JAX-RS webapp service using Spring configuration</description>
+</archetype>
+<archetype>
+<groupId>org.apache.crunch</groupId>
+<artifactId>crunch-archetype</artifactId>
+<version>0.8.5-SNAPSHOT</version>
+<description>Create a basic, self-contained job for Apache Crunch.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.directmemory.server</groupId>
+<artifactId>server-example-archetype</artifactId>
+<version>0.6.0-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.directmemory.server</groupId>
+<artifactId>server-example-archetype</artifactId>
+<version>0.1-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.geronimo.buildsupport</groupId>
+<artifactId>geronimo-plugin-archetype</artifactId>
+<version>3.0.2-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.geronimo.buildsupport</groupId>
+<artifactId>geronimo-plugin-archetype</artifactId>
+<version>3.0-beta-2-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.geronimo.buildsupport</groupId>
+<artifactId>geronimo-plugin-archetype</artifactId>
+<version>3.0-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.geronimo.buildsupport</groupId>
+<artifactId>geronimo-plugin-archetype</artifactId>
+<version>3.0-M2-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.geronimo.buildsupport</groupId>
+<artifactId>geronimo-plugin-archetype</artifactId>
+<version>2.2.2-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.geronimo.buildsupport</groupId>
+<artifactId>geronimo-plugin-archetype</artifactId>
+<version>2.1.9-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.geronimo.buildsupport</groupId>
+<artifactId>geronimo-assembly-archetype</artifactId>
+<version>3.0.2-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.geronimo.buildsupport</groupId>
+<artifactId>geronimo-assembly-archetype</artifactId>
+<version>3.0-beta-2-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.geronimo.buildsupport</groupId>
+<artifactId>geronimo-assembly-archetype</artifactId>
+<version>3.0-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.geronimo.buildsupport</groupId>
+<artifactId>geronimo-assembly-archetype</artifactId>
+<version>3.0-M2-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.geronimo.buildsupport</groupId>
+<artifactId>geronimo-assembly-archetype</artifactId>
+<version>2.2.2-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.geronimo.buildsupport</groupId>
+<artifactId>geronimo-assembly-archetype</artifactId>
+<version>2.1.9-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.geronimo.buildsupport</groupId>
+<artifactId>geronimo-archetype-testsuite</artifactId>
+<version>2.1.9-SNAPSHOT</version>
+<description>Plugin to help create a testsuite</description>
+</archetype>
+<archetype>
+<groupId>org.apache.directory.samples</groupId>
+<artifactId>apacheds-webapp</artifactId>
+<version>1.0-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.directory.samples</groupId>
+<artifactId>apacheds-archetype-webapp</artifactId>
+<version>1.5.5-SNAPSHOT</version>
+<description>Archetype to embed ApacheDS as a Web Application</description>
+</archetype>
+<archetype>
+<groupId>org.apache.cocoon</groupId>
+<artifactId>cocoon-22-archetype-webapp</artifactId>
+<version>1.1.0-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.cocoon</groupId>
+<artifactId>cocoon-22-archetype-block-plain</artifactId>
+<version>1.1.0-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.cocoon</groupId>
+<artifactId>cocoon-22-archetype-block</artifactId>
+<version>1.1.0-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.cocoon.archetype-webapp</groupId>
+<artifactId>cocoon-archetype-webapp</artifactId>
+<version>3.0.0-beta-1-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.cocoon.archetype-sample</groupId>
+<artifactId>cocoon-archetype-sample</artifactId>
+<version>3.0.0-beta-1-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.cocoon.archetype-parent</groupId>
+<artifactId>cocoon-archetype-parent</artifactId>
+<version>3.0.0-beta-1-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.cocoon.archetype-block</groupId>
+<artifactId>cocoon-archetype-block</artifactId>
+<version>3.0.0-beta-1-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.flink</groupId>
+<artifactId>flink-quickstart-scala</artifactId>
+<version>0.9-incubating-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.flink</groupId>
+<artifactId>flink-quickstart-scala</artifactId>
+<version>0.9-hadoop1-incubating-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.flink</groupId>
+<artifactId>flink-quickstart-scala</artifactId>
+<version>0.8-incubating-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.flink</groupId>
+<artifactId>flink-quickstart-scala</artifactId>
+<version>0.8-hadoop2-incubating-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.flink</groupId>
+<artifactId>flink-quickstart-scala</artifactId>
+<version>0.8-hadoop1-incubating-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.flink</groupId>
+<artifactId>flink-quickstart-scala</artifactId>
+<version>0.7-incubating-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.flink</groupId>
+<artifactId>flink-quickstart-scala</artifactId>
+<version>0.7-hadoop2-incubating-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.flink</groupId>
+<artifactId>flink-quickstart-scala</artifactId>
+<version>0.6-incubating-hadoop2-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.flink</groupId>
+<artifactId>flink-quickstart-java</artifactId>
+<version>0.9-incubating-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.flink</groupId>
+<artifactId>flink-quickstart-java</artifactId>
+<version>0.9-hadoop1-incubating-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.flink</groupId>
+<artifactId>flink-quickstart-java</artifactId>
+<version>0.8-incubating-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.flink</groupId>
+<artifactId>flink-quickstart-java</artifactId>
+<version>0.8-hadoop2-incubating-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.flink</groupId>
+<artifactId>flink-quickstart-java</artifactId>
+<version>0.8-hadoop1-incubating-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.flink</groupId>
+<artifactId>flink-quickstart-java</artifactId>
+<version>0.7-incubating-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.flink</groupId>
+<artifactId>flink-quickstart-java</artifactId>
+<version>0.7-hadoop2-incubating-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.flink</groupId>
+<artifactId>flink-quickstart-java</artifactId>
+<version>0.6-incubating-hadoop2-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.accumulo</groupId>
+<artifactId>instamo-archetype</artifactId>
+<version>1.4.4-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.marmotta</groupId>
+<artifactId>marmotta-archetype-module</artifactId>
+<version>3.3.1-SNAPSHOT</version>
+<description>This Maven Archetype allows creating the basic structure for an Marmotta Module</description>
+</archetype>
+<archetype>
+<groupId>org.apache.marmotta</groupId>
+<artifactId>marmotta-archetype-webapp</artifactId>
+<version>3.3.1-SNAPSHOT</version>
+<description>Web Application bundle (WAR file) containing Apache Marmotta</description>
+</archetype>
+<archetype>
+<groupId>org.apache.tapestry</groupId>
+<artifactId>quickstart</artifactId>
+<version>5.4-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.struts</groupId>
+<artifactId>struts2-archetype-angularjs</artifactId>
+<version>2.3.21-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.struts</groupId>
+<artifactId>struts2-archetype-dbportlet</artifactId>
+<version>2.3.21-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.struts</groupId>
+<artifactId>struts2-archetype-convention</artifactId>
+<version>2.3.21-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.struts</groupId>
+<artifactId>struts2-archetype-blank</artifactId>
+<version>2.3.21-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.struts</groupId>
+<artifactId>struts2-archetype-starter</artifactId>
+<version>2.3.21-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.struts</groupId>
+<artifactId>struts2-archetype-portlet</artifactId>
+<version>2.3.21-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.struts</groupId>
+<artifactId>struts2-archetype-plugin</artifactId>
+<version>2.3.21-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.rave</groupId>
+<artifactId>rave-custom-project-archetype</artifactId>
+<version>0.24-SNAPSHOT</version>
+<description>An Archetype to create a custom Apache Rave project</description>
+</archetype>
+<archetype>
+<groupId>org.apache.directmemory.server</groupId>
+<artifactId>server-example-archetype</artifactId>
+<version>0.3-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-webconsole</artifactId>
+<version>2.15-SNAPSHOT</version>
+<description>Creates a new Camel project that deploys the Camel Web Console, REST API, and your routes as a WAR</description>
+</archetype>
+<archetype>
+<groupId>org.apache.syncope</groupId>
+<artifactId>syncope-archetype</artifactId>
+<version>1.3.0-SNAPSHOT</version>
+<description>Apache Syncope Archetype</description>
+</archetype>
+<archetype>
+<groupId>org.apache.tomcat.maven</groupId>
+<artifactId>tomcat-maven-archetype</artifactId>
+<version>2.3-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.struts</groupId>
+<artifactId>struts2-archetype-angularjs</artifactId>
+<version>2.3.22-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.struts</groupId>
+<artifactId>struts2-archetype-convention</artifactId>
+<version>2.3.22-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.struts</groupId>
+<artifactId>struts2-archetype-blank</artifactId>
+<version>2.3.22-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.struts</groupId>
+<artifactId>struts2-archetype-starter</artifactId>
+<version>2.3.22-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.struts</groupId>
+<artifactId>struts2-archetype-dbportlet</artifactId>
+<version>2.3.22-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.struts</groupId>
+<artifactId>struts2-archetype-portlet</artifactId>
+<version>2.3.22-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.struts</groupId>
+<artifactId>struts2-archetype-plugin</artifactId>
+<version>2.3.22-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.syncope</groupId>
+<artifactId>syncope-archetype</artifactId>
+<version>1.1.9-SNAPSHOT</version>
+<description>Apache Syncope Archetype</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-activemq</artifactId>
+<version>2.15-SNAPSHOT</version>
+<description>Creates a new Camel project that configures and interacts with ActiveMQ.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-api-component</artifactId>
+<version>2.15-SNAPSHOT</version>
+<description>Creates a new Camel component that wraps one or more API proxies.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-cxf-code-first-blueprint</artifactId>
+<version>2.15-SNAPSHOT</version>
+<description>Creates a new Camel project with Apache CXF code-first example using OSGi blueprint.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-blueprint</artifactId>
+<version>2.15-SNAPSHOT</version>
+<description>Creates a new Camel project with OSGi blueprint support. Ready to be deployed in OSGi.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-component-scala</artifactId>
+<version>2.15-SNAPSHOT</version>
+<description>Creates a new Camel component with Scala.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-component</artifactId>
+<version>2.15-SNAPSHOT</version>
+<description>Creates a new Camel component.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-cxf-contract-first-blueprint</artifactId>
+<version>2.15-SNAPSHOT</version>
+<description>Creates a new Camel project with Apache CXF contract-first example using OSGi blueprint.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-groovy</artifactId>
+<version>2.15-SNAPSHOT</version>
+<description>Creates a new Camel project using Groovy DSL.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-dataformat</artifactId>
+<version>2.15-SNAPSHOT</version>
+<description>Creates a new Camel data format.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-scr</artifactId>
+<version>2.15-SNAPSHOT</version>
+<description>Creates a new Camel SCR (Declarative Services) bundle project for OSGi</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-spring</artifactId>
+<version>2.15-SNAPSHOT</version>
+<description>Creates a new Camel project with added Spring DSL support.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-scala</artifactId>
+<version>2.15-SNAPSHOT</version>
+<description>Creates a new Camel project using Scala DSL.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-java</artifactId>
+<version>2.15-SNAPSHOT</version>
+<description>Creates a new Camel project using Java DSL.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-spring-dm</artifactId>
+<version>2.15-SNAPSHOT</version>
+<description>Creates a new Camel project with added Spring DSL support. Ready to be deployed in OSGi.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-web</artifactId>
+<version>2.15-SNAPSHOT</version>
+<description>Creates a new Camel web project that deploys the Camel routes as a WAR</description>
+</archetype>
+<archetype>
+<groupId>org.apache.portals.jetspeed-2</groupId>
+<artifactId>jetspeed-archetype</artifactId>
+<version>2.2.3-SNAPSHOT</version>
+<description>Jetspeed 2 Maven Archetype</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-component-scala</artifactId>
+<version>2.16-SNAPSHOT</version>
+<description>Creates a new Camel component with Scala.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.struts</groupId>
+<artifactId>struts2-archetype-angularjs</artifactId>
+<version>2.3.23-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.struts</groupId>
+<artifactId>struts2-archetype-blank</artifactId>
+<version>2.3.23-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.struts</groupId>
+<artifactId>struts2-archetype-dbportlet</artifactId>
+<version>2.3.23-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.struts</groupId>
+<artifactId>struts2-archetype-convention</artifactId>
+<version>2.3.23-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.struts</groupId>
+<artifactId>struts2-archetype-portlet</artifactId>
+<version>2.3.23-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.struts</groupId>
+<artifactId>struts2-archetype-plugin</artifactId>
+<version>2.3.23-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.struts</groupId>
+<artifactId>struts2-archetype-starter</artifactId>
+<version>2.3.23-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.maven.archetypes</groupId>
+<artifactId>maven-archetype-archetype</artifactId>
+<version>1.1-SNAPSHOT</version>
+<description>An archetype which contains a sample archetype.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.maven.archetypes</groupId>
+<artifactId>maven-archetype-plugin-site</artifactId>
+<version>1.2-SNAPSHOT</version>
+<description>An archetype which contains a sample Maven plugin site. This archetype can be layered upon an existing Maven plugin project.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.maven.archetypes</groupId>
+<artifactId>maven-archetype-profiles</artifactId>
+<version>1.0-SNAPSHOT</version>
+<description>An archetype which contains a sample Maven project which demonstrates the use of profiles.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.maven.archetypes</groupId>
+<artifactId>maven-archetype-j2ee-simple</artifactId>
+<version>1.1-SNAPSHOT</version>
+<description>An archetype which contains a simplified sample J2EE application.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.maven.archetypes</groupId>
+<artifactId>maven-archetype-portlet</artifactId>
+<version>1.1-SNAPSHOT</version>
+<description>An archetype which contains a sample JSR-268 Portlet.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.maven.archetypes</groupId>
+<artifactId>maven-archetype-plugin</artifactId>
+<version>1.3-SNAPSHOT</version>
+<description>An archetype which contains a sample Maven plugin.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.maven.archetypes</groupId>
+<artifactId>maven-archetype-site</artifactId>
+<version>1.2-SNAPSHOT</version>
+<description>An archetype which contains a sample Maven site which demonstrates some of the supported document types like APT, XDoc, and FML and demonstrates how to i18n your site. This archetype can be layered upon an existing Maven project.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.maven.archetypes</groupId>
+<artifactId>maven-archetype-site-simple</artifactId>
+<version>1.2-SNAPSHOT</version>
+<description>An archetype which contains a sample Maven site.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.maven.archetypes</groupId>
+<artifactId>maven-archetype-quickstart</artifactId>
+<version>1.2-SNAPSHOT</version>
+<description>An archetype which contains a sample Maven project.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.maven.archetypes</groupId>
+<artifactId>maven-archetype-simple</artifactId>
+<version>1.1-SNAPSHOT</version>
+<description>An archetype which contains a simple Maven project.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.maven.archetypes</groupId>
+<artifactId>maven-archetype-webapp</artifactId>
+<version>1.1-SNAPSHOT</version>
+<description>An archetype which contains a sample Maven Webapp project.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.avro</groupId>
+<artifactId>avro-service-archetype</artifactId>
+<version>1.8.0-SNAPSHOT</version>
+<description>Archetype that generates a simple example Avro service</description>
+</archetype>
+<archetype>
+<groupId>org.apache.flink</groupId>
+<artifactId>flink-quickstart-scala</artifactId>
+<version>0.9-hadoop1-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.flink</groupId>
+<artifactId>flink-quickstart-java</artifactId>
+<version>0.9-hadoop1-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.stanbol</groupId>
+<artifactId>statefull-webmodule-archetype</artifactId>
+<version>0.12.1-SNAPSHOT</version>
+<description>Archetype for a project that accesses the entityhub, and logs queries to a persisten graph</description>
+</archetype>
+<archetype>
+<groupId>org.apache.stanbol</groupId>
+<artifactId>stateless-webmodule-archetype</artifactId>
+<version>0.12.1-SNAPSHOT</version>
+<description>Archetype for a project that allows posting files and shows the computed enhancements.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.stanbol</groupId>
+<artifactId>enhancer-engine-archetype</artifactId>
+<version>0.12.1-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.chemistry.opencmis</groupId>
+<artifactId>chemistry-opencmis-server-extension-archetype</artifactId>
+<version>1.0.0-SNAPSHOT</version>
+<description>OpenCMIS Server Extension archetype</description>
+</archetype>
+<archetype>
+<groupId>org.apache.chemistry.opencmis</groupId>
+<artifactId>chemistry-opencmis-server-archetype</artifactId>
+<version>1.0.0-SNAPSHOT</version>
+<description>OpenCMIS Server Framework archetype</description>
+</archetype>
+<archetype>
+<groupId>org.apache.openejb.maven</groupId>
+<artifactId>tomee-webapp-archetype</artifactId>
+<version>1.7.2-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.struts</groupId>
+<artifactId>struts2-archetype-dbportlet</artifactId>
+<version>2.3.24-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.struts</groupId>
+<artifactId>struts2-archetype-convention</artifactId>
+<version>2.3.24-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.struts</groupId>
+<artifactId>struts2-archetype-blank</artifactId>
+<version>2.3.24-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.struts</groupId>
+<artifactId>struts2-archetype-portlet</artifactId>
+<version>2.3.24-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.struts</groupId>
+<artifactId>struts2-archetype-plugin</artifactId>
+<version>2.3.24-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.struts</groupId>
+<artifactId>struts2-archetype-angularjs</artifactId>
+<version>2.3.24-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.struts</groupId>
+<artifactId>struts2-archetype-starter</artifactId>
+<version>2.3.24-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.myfaces.buildtools</groupId>
+<artifactId>myfaces-archetype-core-integration-test</artifactId>
+<version>1.0.5-SNAPSHOT</version>
+<description>Archetype to create a new MyFaces core project used for integration tests via cargo and HtmlUnit. Projects created via this archetype aim to test specific issues from the MyFaces core JIRA issue tracker and can be directly added to the MyFaces core integration-tests module.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.myfaces.buildtools</groupId>
+<artifactId>myfaces-archetype-extscript-jsf20</artifactId>
+<version>1.0.5-SNAPSHOT</version>
+<description>Archetype to create a new JSF 2.0 webapp based on MyFaces Extension Scripting</description>
+</archetype>
+<archetype>
+<groupId>org.apache.myfaces.buildtools</groupId>
+<artifactId>myfaces-archetype-helloworld-facelets</artifactId>
+<version>1.0.5-SNAPSHOT</version>
+<description>Archetype to create a new webapp based on MyFaces and Facelets</description>
+</archetype>
+<archetype>
+<groupId>org.apache.myfaces.buildtools</groupId>
+<artifactId>myfaces-archetype-helloworld</artifactId>
+<version>1.0.5-SNAPSHOT</version>
+<description>Archetype to create a new webapp based on myfaces</description>
+</archetype>
+<archetype>
+<groupId>org.apache.myfaces.buildtools</groupId>
+<artifactId>myfaces-archetype-codi-jsf20</artifactId>
+<version>1.0.5-SNAPSHOT</version>
+<description>Archetype to create a new JSF 2.0 webapp based on MyFaces CODI</description>
+</archetype>
+<archetype>
+<groupId>org.apache.myfaces.buildtools</groupId>
+<artifactId>myfaces-archetype-codi-jsf12</artifactId>
+<version>1.0.5-SNAPSHOT</version>
+<description>Archetype to create a new JSF 1.2 webapp based on MyFaces CODI</description>
+</archetype>
+<archetype>
+<groupId>org.apache.myfaces.buildtools</groupId>
+<artifactId>myfaces-archetype-helloworld-portlets</artifactId>
+<version>1.0.5-SNAPSHOT</version>
+<description>Archetype to create a new portlet webapp based on myfaces</description>
+</archetype>
+<archetype>
+<groupId>org.apache.myfaces.buildtools</groupId>
+<artifactId>myfaces-archetype-helloworld20-owb</artifactId>
+<version>1.0.5-SNAPSHOT</version>
+<description>Archetype to create a new webapp based on MyFaces 2.0 with OpenWebBeans</description>
+</archetype>
+<archetype>
+<groupId>org.apache.myfaces.buildtools</groupId>
+<artifactId>myfaces-archetype-jsfcomponents20</artifactId>
+<version>1.0.5-SNAPSHOT</version>
+<description>Archetype to create a libary project of JSF 2.0 components</description>
+</archetype>
+<archetype>
+<groupId>org.apache.myfaces.buildtools</groupId>
+<artifactId>myfaces-archetype-trinidad20</artifactId>
+<version>1.0.5-SNAPSHOT</version>
+<description>Archetype to create a new webapp based on Trinidad and JSF 2.0</description>
+</archetype>
+<archetype>
+<groupId>org.apache.myfaces.buildtools</groupId>
+<artifactId>myfaces-archetype-jsfcomponents</artifactId>
+<version>1.0.5-SNAPSHOT</version>
+<description>Archetype to create a libary project of JSF components</description>
+</archetype>
+<archetype>
+<groupId>org.apache.myfaces.buildtools</groupId>
+<artifactId>myfaces-archetype-trinidad</artifactId>
+<version>1.0.5-SNAPSHOT</version>
+<description>Archetype to create a new webapp based on Trinidad</description>
+</archetype>
+<archetype>
+<groupId>org.apache.myfaces.buildtools</groupId>
+<artifactId>myfaces-archetype-helloworld20-debug</artifactId>
+<version>1.0.5-SNAPSHOT</version>
+<description>Archetype to create a new webapp based on MyFaces 2.0, specially for debug issues</description>
+</archetype>
+<archetype>
+<groupId>org.apache.myfaces.buildtools</groupId>
+<artifactId>myfaces-archetype-helloworld20</artifactId>
+<version>1.0.5-SNAPSHOT</version>
+<description>Archetype to create a new webapp based on MyFaces 2.0</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-blueprint</artifactId>
+<version>2.13.5-SNAPSHOT</version>
+<description>Creates a new Camel project with OSGi blueprint support. Ready to be deployed in OSGi.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-activemq</artifactId>
+<version>2.13.5-SNAPSHOT</version>
+<description>Creates a new Camel project that configures and interacts with ActiveMQ.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-component-scala</artifactId>
+<version>2.13.5-SNAPSHOT</version>
+<description>Creates a new Camel component with Scala.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-component</artifactId>
+<version>2.13.5-SNAPSHOT</version>
+<description>Creates a new Camel component.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-cxf-contract-first-blueprint</artifactId>
+<version>2.13.5-SNAPSHOT</version>
+<description>Creates a new Camel project with Apache CXF contract-first example using OSGi blueprint.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-cxf-code-first-blueprint</artifactId>
+<version>2.13.5-SNAPSHOT</version>
+<description>Creates a new Camel project with Apache CXF code-first example using OSGi blueprint.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-dataformat</artifactId>
+<version>2.13.5-SNAPSHOT</version>
+<description>Creates a new Camel data format.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-groovy</artifactId>
+<version>2.13.5-SNAPSHOT</version>
+<description>Creates a new Camel project using Groovy DSL.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-scala</artifactId>
+<version>2.13.5-SNAPSHOT</version>
+<description>Creates a new Camel project using Scala DSL.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-java</artifactId>
+<version>2.13.5-SNAPSHOT</version>
+<description>Creates a new Camel project using Java DSL.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-spring-dm</artifactId>
+<version>2.13.5-SNAPSHOT</version>
+<description>Creates a new Camel project with added Spring DSL support. Ready to be deployed in OSGi.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-spring</artifactId>
+<version>2.13.5-SNAPSHOT</version>
+<description>Creates a new Camel project with added Spring DSL support.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-webconsole</artifactId>
+<version>2.13.5-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-web</artifactId>
+<version>2.13.5-SNAPSHOT</version>
+<description>Creates a new Camel web project that deploys the Camel routes as a WAR</description>
+</archetype>
+<archetype>
+<groupId>org.apache.struts</groupId>
+<artifactId>struts2-archetype-starter</artifactId>
+<version>2.3.25-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.struts</groupId>
+<artifactId>struts2-archetype-portlet</artifactId>
+<version>2.3.25-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.struts</groupId>
+<artifactId>struts2-archetype-angularjs</artifactId>
+<version>2.3.25-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.struts</groupId>
+<artifactId>struts2-archetype-dbportlet</artifactId>
+<version>2.3.25-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.struts</groupId>
+<artifactId>struts2-archetype-convention</artifactId>
+<version>2.3.25-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.struts</groupId>
+<artifactId>struts2-archetype-blank</artifactId>
+<version>2.3.25-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.struts</groupId>
+<artifactId>struts2-archetype-plugin</artifactId>
+<version>2.3.25-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.flink</groupId>
+<artifactId>flink-quickstart-scala</artifactId>
+<version>0.8-hadoop1-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.flink</groupId>
+<artifactId>flink-quickstart-java</artifactId>
+<version>0.8-hadoop1-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.flink</groupId>
+<artifactId>flink-quickstart-java</artifactId>
+<version>0.8-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.flink</groupId>
+<artifactId>flink-quickstart-scala</artifactId>
+<version>0.8-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.karaf.archetypes</groupId>
+<artifactId>karaf-blueprint-archetype</artifactId>
+<version>4.0.0-SNAPSHOT</version>
+<description>An archetype for creating a simple blueprint bundle.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.karaf.archetypes</groupId>
+<artifactId>karaf-assembly-archetype</artifactId>
+<version>4.0.0-SNAPSHOT</version>
+<description>This archetype sets up an empty karaf assembly project.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.karaf.archetypes</groupId>
+<artifactId>karaf-feature-archetype</artifactId>
+<version>4.0.0-SNAPSHOT</version>
+<description>This archetype sets up an empty karaf features project.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.karaf.archetypes</groupId>
+<artifactId>karaf-command-archetype</artifactId>
+<version>4.0.0-SNAPSHOT</version>
+<description>A Karaf command archetype.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.karaf.archetypes</groupId>
+<artifactId>karaf-kar-archetype</artifactId>
+<version>4.0.0-SNAPSHOT</version>
+<description>This archetype sets up an empty karaf kar project.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.karaf.archetypes</groupId>
+<artifactId>karaf-bundle-archetype</artifactId>
+<version>4.0.0-SNAPSHOT</version>
+<description>A simple bundle archetype.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.crunch</groupId>
+<artifactId>crunch-archetype</artifactId>
+<version>0.12.0-SNAPSHOT</version>
+<description>Create a basic, self-contained job for Apache Crunch.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.portals.jetspeed-2</groupId>
+<artifactId>jetspeed-archetype</artifactId>
+<version>2.3.0-SNAPSHOT</version>
+<description>Jetspeed 2 Maven Archetype</description>
+</archetype>
+<archetype>
+<groupId>org.apache.cxf.archetype</groupId>
+<artifactId>cxf-jaxrs-service</artifactId>
+<version>3.1.1-SNAPSHOT</version>
+<description>Simple CXF JAX-RS webapp service using Spring configuration</description>
+</archetype>
+<archetype>
+<groupId>org.apache.cxf.archetype</groupId>
+<artifactId>cxf-jaxws-javafirst</artifactId>
+<version>3.1.1-SNAPSHOT</version>
+<description>Creates a project for developing a Web service starting from Java code</description>
+</archetype>
+<archetype>
+<groupId>org.apache.cxf.archetype</groupId>
+<artifactId>cxf-jaxws-javafirst</artifactId>
+<version>2.7.17-SNAPSHOT</version>
+<description>Creates a project for developing a Web service starting from Java code</description>
+</archetype>
+<archetype>
+<groupId>org.apache.cxf.archetype</groupId>
+<artifactId>cxf-jaxrs-service</artifactId>
+<version>2.7.17-SNAPSHOT</version>
+<description>Simple CXF JAX-RS webapp service using Spring configuration</description>
+</archetype>
+<archetype>
+<groupId>org.apache.axis2.archetype</groupId>
+<artifactId>quickstart-webapp</artifactId>
+<version>1.7.0-SNAPSHOT</version>
+<description>Maven archetype for creating a Axis2 web Service as a webapp</description>
+</archetype>
+<archetype>
+<groupId>org.apache.axis2.archetype</groupId>
+<artifactId>quickstart</artifactId>
+<version>1.7.0-SNAPSHOT</version>
+<description>Maven archetype for creating a Axis2 web Service</description>
+</archetype>
+<archetype>
+<groupId>org.apache.marmotta</groupId>
+<artifactId>marmotta-archetype-module</artifactId>
+<version>3.4.0-SNAPSHOT</version>
+<description>This Maven Archetype allows creating the basic structure for an Marmotta Module</description>
+</archetype>
+<archetype>
+<groupId>org.apache.synapse</groupId>
+<artifactId>synapse-package-archetype</artifactId>
+<version>2.2.0-SNAPSHOT</version>
+<description>This archetype can be used to create Maven projects that bundle a mediation into a standalone distribution ready to be executed</description>
+</archetype>
+<archetype>
+<groupId>org.apache.marmotta</groupId>
+<artifactId>marmotta-archetype-webapp</artifactId>
+<version>3.4.0-SNAPSHOT</version>
+<description>Web Application bundle (WAR file) containing Apache Marmotta</description>
+</archetype>
+<archetype>
+<groupId>org.apache.taverna.engine</groupId>
+<artifactId>taverna-activity-archetype</artifactId>
+<version>3.1.0-incubating-SNAPSHOT</version>
+<description>Archetype to build a Taverna 3 service activity. Includes engine and UI parts, and a test class to run the workbench with the new activity.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-cxf-code-first-blueprint</artifactId>
+<version>2.14.3-SNAPSHOT</version>
+<description>Creates a new Camel project with Apache CXF code-first example using OSGi blueprint.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-blueprint</artifactId>
+<version>2.14.3-SNAPSHOT</version>
+<description>Creates a new Camel project with OSGi blueprint support. Ready to be deployed in OSGi.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-activemq</artifactId>
+<version>2.14.3-SNAPSHOT</version>
+<description>Creates a new Camel project that configures and interacts with ActiveMQ.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-api-component</artifactId>
+<version>2.14.3-SNAPSHOT</version>
+<description>Creates a new Camel component that wraps one or more API proxies.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-component-scala</artifactId>
+<version>2.14.3-SNAPSHOT</version>
+<description>Creates a new Camel component with Scala.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-component</artifactId>
+<version>2.14.3-SNAPSHOT</version>
+<description>Creates a new Camel component.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-cxf-contract-first-blueprint</artifactId>
+<version>2.14.3-SNAPSHOT</version>
+<description>Creates a new Camel project with Apache CXF contract-first example using OSGi blueprint.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-spring-dm</artifactId>
+<version>2.14.3-SNAPSHOT</version>
+<description>Creates a new Camel project with added Spring DSL support. Ready to be deployed in OSGi.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-spring</artifactId>
+<version>2.14.3-SNAPSHOT</version>
+<description>Creates a new Camel project with added Spring DSL support.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-web</artifactId>
+<version>2.14.3-SNAPSHOT</version>
+<description>Creates a new Camel web project that deploys the Camel routes as a WAR</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-groovy</artifactId>
+<version>2.14.3-SNAPSHOT</version>
+<description>Creates a new Camel project using Groovy DSL.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-scala</artifactId>
+<version>2.14.3-SNAPSHOT</version>
+<description>Creates a new Camel project using Scala DSL.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-java</artifactId>
+<version>2.14.3-SNAPSHOT</version>
+<description>Creates a new Camel project using Java DSL.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-dataformat</artifactId>
+<version>2.14.3-SNAPSHOT</version>
+<description>Creates a new Camel data format.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-webconsole</artifactId>
+<version>2.14.3-SNAPSHOT</version>
+<description>Creates a new Camel project that deploys the Camel Web Console, REST API, and your routes as a WAR</description>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling.archetypes</groupId>
+<artifactId>servicemix-cxf-wsdl-first-osgi-bundle</artifactId>
+<version>6.0.0-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling.archetypes</groupId>
+<artifactId>servicemix-cxf-code-first-osgi-bundle</artifactId>
+<version>6.0.0-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling.archetypes</groupId>
+<artifactId>servicemix-osgi-bundle</artifactId>
+<version>6.0.0-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling.archetypes</groupId>
+<artifactId>servicemix-cxf-wsdl-first-osgi-bundle</artifactId>
+<version>5.4.1-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling.archetypes</groupId>
+<artifactId>servicemix-cxf-code-first-osgi-bundle</artifactId>
+<version>5.4.1-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling.archetypes</groupId>
+<artifactId>servicemix-osgi-bundle</artifactId>
+<version>5.4.1-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling.archetypes</groupId>
+<artifactId>servicemix-cxf-wsdl-first-osgi-bundle</artifactId>
+<version>5.3.3-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling.archetypes</groupId>
+<artifactId>servicemix-cxf-code-first-osgi-bundle</artifactId>
+<version>5.3.3-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling.archetypes</groupId>
+<artifactId>servicemix-osgi-bundle</artifactId>
+<version>5.3.3-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.oodt</groupId>
+<artifactId>radix-archetype</artifactId>
+<version>0.9-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.cxf.archetype</groupId>
+<artifactId>cxf-jaxws-javafirst</artifactId>
+<version>3.0.6-SNAPSHOT</version>
+<description>Creates a project for developing a Web service starting from Java code</description>
+</archetype>
+<archetype>
+<groupId>org.apache.cxf.archetype</groupId>
+<artifactId>cxf-jaxrs-service</artifactId>
+<version>3.0.6-SNAPSHOT</version>
+<description>Simple CXF JAX-RS webapp service using Spring configuration</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-cxf-code-first-blueprint</artifactId>
+<version>2.15.3-SNAPSHOT</version>
+<description>Creates a new Camel project with Apache CXF code-first example using OSGi blueprint.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-component-scala</artifactId>
+<version>2.15.3-SNAPSHOT</version>
+<description>Creates a new Camel component with Scala.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-web</artifactId>
+<version>2.15.3-SNAPSHOT</version>
+<description>Creates a new Camel web project that deploys the Camel routes as a WAR</description>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling.archetypes</groupId>
+<artifactId>servicemix-cxf-code-first-osgi-bundle</artifactId>
+<version>5.2.2-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling.archetypes</groupId>
+<artifactId>servicemix-cxf-wsdl-first-osgi-bundle</artifactId>
+<version>5.2.2-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling.archetypes</groupId>
+<artifactId>servicemix-osgi-bundle</artifactId>
+<version>5.2.2-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.oodt</groupId>
+<artifactId>opsui-archetype</artifactId>
+<version>0.9-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.stanbol</groupId>
+<artifactId>statefull-webmodule-archetype</artifactId>
+<version>1.0.0-SNAPSHOT</version>
+<description>Archetype for a project that accesses the entityhub, and logs queries to a persisten graph</description>
+</archetype>
+<archetype>
+<groupId>org.apache.stanbol</groupId>
+<artifactId>stateless-webmodule-archetype</artifactId>
+<version>1.0.0-SNAPSHOT</version>
+<description>Archetype for a project that allows posting files and shows the computed enhancements.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.stanbol</groupId>
+<artifactId>enhancer-engine-archetype</artifactId>
+<version>1.0.0-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling.archetypes</groupId>
+<artifactId>servicemix-cxf-code-first-osgi-bundle</artifactId>
+<version>5.1.6-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling.archetypes</groupId>
+<artifactId>servicemix-cxf-wsdl-first-osgi-bundle</artifactId>
+<version>5.1.6-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.servicemix.tooling.archetypes</groupId>
+<artifactId>servicemix-osgi-bundle</artifactId>
+<version>5.1.6-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.syncope</groupId>
+<artifactId>syncope-archetype</artifactId>
+<version>1.2.5-SNAPSHOT</version>
+<description>Apache Syncope Archetype</description>
+</archetype>
+<archetype>
+<groupId>org.apache.karaf.archetypes</groupId>
+<artifactId>karaf-assembly-archetype</artifactId>
+<version>3.0.4-SNAPSHOT</version>
+<description>This archetype sets up an empty karaf assembly project.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.karaf.archetypes</groupId>
+<artifactId>karaf-command-archetype</artifactId>
+<version>3.0.4-SNAPSHOT</version>
+<description>A Karaf command archetype.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.karaf.archetypes</groupId>
+<artifactId>karaf-blueprint-archetype</artifactId>
+<version>3.0.4-SNAPSHOT</version>
+<description>An archetype for creating a simple blueprint bundle.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.karaf.archetypes</groupId>
+<artifactId>karaf-bundle-archetype</artifactId>
+<version>3.0.4-SNAPSHOT</version>
+<description>A simple bundle archetype.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.karaf.archetypes</groupId>
+<artifactId>karaf-feature-archetype</artifactId>
+<version>3.0.4-SNAPSHOT</version>
+<description>This archetype sets up an empty karaf features project.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.karaf.archetypes</groupId>
+<artifactId>karaf-kar-archetype</artifactId>
+<version>3.0.4-SNAPSHOT</version>
+<description>This archetype sets up an empty karaf kar project.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.olingo</groupId>
+<artifactId>olingo-odata2-sample-cars-annotation-archetype</artifactId>
+<version>2.0.4-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.olingo</groupId>
+<artifactId>olingo-odata2-sample-cars-service-archetype</artifactId>
+<version>2.0.4-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.olingo</groupId>
+<artifactId>olingo-odata2-sample-cars-jpa-archetype</artifactId>
+<version>2.0.4-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.syncope</groupId>
+<artifactId>syncope-archetype</artifactId>
+<version>2.0.0-SNAPSHOT</version>
+<description>Apache Syncope Archetype</description>
+</archetype>
+<archetype>
+<groupId>org.apache.karaf.archetypes</groupId>
+<artifactId>karaf-feature-archetype</artifactId>
+<version>2.4.3-SNAPSHOT</version>
+<description>This archetype sets up an empty karaf features project.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.karaf.archetypes</groupId>
+<artifactId>karaf-kar-archetype</artifactId>
+<version>2.4.3-SNAPSHOT</version>
+<description>This archetype creates a KAR file from a provided features XML.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.karaf.archetypes</groupId>
+<artifactId>karaf-bundle-archetype</artifactId>
+<version>2.4.3-SNAPSHOT</version>
+<description>A simple bundle archetype.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.karaf.archetypes</groupId>
+<artifactId>karaf-command-archetype</artifactId>
+<version>2.4.3-SNAPSHOT</version>
+<description>A Karaf command archetype.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.wicket</groupId>
+<artifactId>wicket-archetype-quickstart</artifactId>
+<version>6.20.0-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.brooklyn</groupId>
+<artifactId>brooklyn-archetype-quickstart</artifactId>
+<version>0.7.0-SNAPSHOT</version>
+<description>This project defines an archetype for creating new projects which consume brooklyn, including an example application and an example new entity type, able to build an OSGi JAR and a binary assembly, with logging and READMEs.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.karaf.archetypes</groupId>
+<artifactId>karaf-assembly-archetype</artifactId>
+<version>2.4.3-SNAPSHOT</version>
+<description>An archetype for creating a Karaf assembly.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.karaf.archetypes</groupId>
+<artifactId>karaf-blueprint-archetype</artifactId>
+<version>2.4.3-SNAPSHOT</version>
+<description>An archetype for creating a simple blueprint bundle.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.flink</groupId>
+<artifactId>flink-quickstart-java</artifactId>
+<version>0.9-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.flink</groupId>
+<artifactId>flink-quickstart-scala</artifactId>
+<version>0.9-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.sling</groupId>
+<artifactId>sling-launchpad-standalone-archetype</artifactId>
+<version>1.0.1-SNAPSHOT</version>
+<description>Maven archetype for Sling Launchpad Standalone applications</description>
+</archetype>
+<archetype>
+<groupId>org.apache.sling</groupId>
+<artifactId>sling-launchpad-webapp-archetype</artifactId>
+<version>1.0.1-SNAPSHOT</version>
+<description>Maven archetype for Sling Launchpad Webapp applications</description>
+</archetype>
+<archetype>
+<groupId>org.apache.sling</groupId>
+<artifactId>sling-initial-content-archetype</artifactId>
+<version>1.0.1-SNAPSHOT</version>
+<description>Maven archetype for initial content</description>
+</archetype>
+<archetype>
+<groupId>org.apache.sling</groupId>
+<artifactId>sling-servlet-archetype</artifactId>
+<version>1.0.3-SNAPSHOT</version>
+<description>Maven archetype for Sling Servlets</description>
+</archetype>
+<archetype>
+<groupId>org.apache.sling</groupId>
+<artifactId>sling-jcrinstall-bundle-archetype</artifactId>
+<version>1.0.3-SNAPSHOT</version>
+<description>Maven archetype for a generic OSGi bundle installed via JCR Install.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.sling</groupId>
+<artifactId>sling-bundle-archetype</artifactId>
+<version>1.0.3-SNAPSHOT</version>
+<description>Maven archetype for a generic OSGi bundle.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.sling</groupId>
+<artifactId>sling-taglib-archetype</artifactId>
+<version>1.0.0-SNAPSHOT</version>
+<description>Maven archetype for JSP Taglib</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-scala</artifactId>
+<version>2.15.3-SNAPSHOT</version>
+<description>Creates a new Camel project using Scala DSL.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-java</artifactId>
+<version>2.15.3-SNAPSHOT</version>
+<description>Creates a new Camel project using Java DSL.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.karaf.archetypes</groupId>
+<artifactId>karaf-command-archetype</artifactId>
+<version>2.3.12-SNAPSHOT</version>
+<description>A Karaf command archetype.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-cxf-contract-first-blueprint</artifactId>
+<version>2.15.3-SNAPSHOT</version>
+<description>Creates a new Camel project with Apache CXF contract-first example using OSGi blueprint.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-dataformat</artifactId>
+<version>2.15.3-SNAPSHOT</version>
+<description>Creates a new Camel data format.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-groovy</artifactId>
+<version>2.15.3-SNAPSHOT</version>
+<description>Creates a new Camel project using Groovy DSL.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-spring-dm</artifactId>
+<version>2.16-SNAPSHOT</version>
+<description>Creates a new Camel project with added Spring DSL support. Ready to be deployed in OSGi.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-spring</artifactId>
+<version>2.16-SNAPSHOT</version>
+<description>Creates a new Camel project with added Spring DSL support.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-web</artifactId>
+<version>2.16-SNAPSHOT</version>
+<description>Creates a new Camel web project that deploys the Camel routes as a WAR</description>
+</archetype>
+<archetype>
+<groupId>org.apache.openejb.maven</groupId>
+<artifactId>tomee-webapp-archetype</artifactId>
+<version>1.7.3-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.karaf.archetypes</groupId>
+<artifactId>karaf-assembly-archetype</artifactId>
+<version>2.3.12-SNAPSHOT</version>
+<description>An archetype for creating a Karaf assembly.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.karaf.archetypes</groupId>
+<artifactId>karaf-blueprint-archetype</artifactId>
+<version>2.3.12-SNAPSHOT</version>
+<description>An archetype for creating a simple blueprint bundle.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.karaf.archetypes</groupId>
+<artifactId>karaf-bundle-archetype</artifactId>
+<version>2.3.12-SNAPSHOT</version>
+<description>A simple bundle archetype.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-blueprint</artifactId>
+<version>2.16-SNAPSHOT</version>
+<description>Creates a new Camel project with OSGi blueprint support. Ready to be deployed in OSGi.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-api-component</artifactId>
+<version>2.16-SNAPSHOT</version>
+<description>Creates a new Camel component that wraps one or more API proxies.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-activemq</artifactId>
+<version>2.16-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-cxf-contract-first-blueprint</artifactId>
+<version>2.16-SNAPSHOT</version>
+<description>Creates a new Camel project with Apache CXF contract-first example using OSGi blueprint.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-cxf-code-first-blueprint</artifactId>
+<version>2.16-SNAPSHOT</version>
+<description>Creates a new Camel project with Apache CXF code-first example using OSGi blueprint.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-dataformat</artifactId>
+<version>2.16-SNAPSHOT</version>
+<description>Creates a new Camel data format.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-component</artifactId>
+<version>2.16-SNAPSHOT</version>
+<description>Creates a new Camel component.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.karaf.archetypes</groupId>
+<artifactId>karaf-feature-archetype</artifactId>
+<version>2.3.12-SNAPSHOT</version>
+<description>This archetype sets up an empty karaf features project.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.karaf.archetypes</groupId>
+<artifactId>karaf-kar-archetype</artifactId>
+<version>2.3.12-SNAPSHOT</version>
+<description>This archetype creates a KAR file from a provided features XML.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-activemq</artifactId>
+<version>2.15.3-SNAPSHOT</version>
+<description>Creates a new Camel project that configures and interacts with ActiveMQ.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-blueprint</artifactId>
+<version>2.15.3-SNAPSHOT</version>
+<description>Creates a new Camel project with OSGi blueprint support. Ready to be deployed in OSGi.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-api-component</artifactId>
+<version>2.15.3-SNAPSHOT</version>
+<description>Creates a new Camel component that wraps one or more API proxies.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-component</artifactId>
+<version>2.15.3-SNAPSHOT</version>
+<description>Creates a new Camel component.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-spring-dm</artifactId>
+<version>2.15.3-SNAPSHOT</version>
+<description>Creates a new Camel project with added Spring DSL support. Ready to be deployed in OSGi.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-scr</artifactId>
+<version>2.15.3-SNAPSHOT</version>
+<description>Creates a new Camel SCR (Declarative Services) bundle project for OSGi</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-spring</artifactId>
+<version>2.15.3-SNAPSHOT</version>
+<description>Creates a new Camel project with added Spring DSL support.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-scr</artifactId>
+<version>2.16-SNAPSHOT</version>
+<description>Creates a new Camel SCR (Declarative Services) bundle project for OSGi</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-groovy</artifactId>
+<version>2.16-SNAPSHOT</version>
+<description>Creates a new Camel project using Groovy DSL.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-scala</artifactId>
+<version>2.16-SNAPSHOT</version>
+<description>Creates a new Camel project using Scala DSL.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.camel.archetypes</groupId>
+<artifactId>camel-archetype-java</artifactId>
+<version>2.16-SNAPSHOT</version>
+<description>Creates a new Camel project using Java DSL.</description>
+</archetype>
+<archetype>
+<groupId>org.apache.openejb.maven</groupId>
+<artifactId>tomee-webapp-archetype</artifactId>
+<version>2.0.0-SNAPSHOT</version>
+</archetype>
+<archetype>
+<groupId>org.apache.wicket</groupId>
+<artifactId>wicket-archetype-quickstart</artifactId>
+<version>7.0.0-SNAPSHOT</version>
+</archetype>
+</archetypes>
+</archetype-catalog>
