@@ -8,3 +8,5 @@
 
 
 ## 2021/10/27 Notepadd++ 설정 테스트  SorceTree 이제는 Token변경으로 설정되더군요. 
+
+## 2021/11/09 Notepadd++ 설정 테스트  SorceTree 이제는 Token변경으로 설정되더군요. 
