@@ -13,6 +13,12 @@
 
 ## 2021/11/29 테스트 진행
 
+
 ## 2022/02/03 Visual Studo Code 설정 Commit 
 
 ## 2022/12/27 Visual Studo Code 설정 Commit 
+
+
+
+## 아 커밋은 지워야 하는구나. 
+
